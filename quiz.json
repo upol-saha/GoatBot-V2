@@ -1,0 +1,121 @@
+[ {
+  "question": "What is the chemical symbol for water?",
+  "options": {
+    "A": "H",
+    "B": "O",
+    "C": "H2O",
+    "D": "HO"
+  },
+  "answer": "C"
+},
+  {
+ "question": "What is the capital of France?",
+ "options": {
+ "A": "London",
+ "B": "Paris",
+ "C": "Berlin",
+ "D": "Madrid"
+ },
+ "answer": "B"
+ },
+  {
+   "question": "What is the capital of France?",
+   "options": {
+   "A": "Paris",
+   "B": "Rome",
+   "C": "Berlin",
+   "D": "Madrid"
+   },
+   "answer": "A"
+   },
+ {
+   "question": "Who painted the Mona Lisa?",
+   "options": {
+   "A": "Vincent van Gogh",
+   "B": "Leonardo da Vinci",
+   "C": "Pablo Picasso",
+   "D": "Michelangelo"
+   },
+   "answer": "B"
+   },
+  {
+   "question": "What is the largest planet in our solar system?",
+   "options": {
+   "A": "Earth",
+   "B": "Saturn",
+   "C": "Jupiter",
+   "D": "Mars"
+   },
+   "answer": "C"
+   },
+ {
+   "question": "Which country is known as the Land of the Rising Sun?",
+   "options": {
+   "A": "China",
+   "B": "Russia",
+   "C": "Japan",
+   "D": "India"
+   },
+   "answer": "C"
+   },
+  {
+   "question": "Who wrote Romeo and Juliet?",
+   "options": {
+   "A": "William Shakespeare",
+   "B": "Jane Austen",
+   "C": "Charles Dickens",
+   "D": "Mark Twain"
+   },
+   "answer": "A"
+   },
+  {
+   "question": "What is the capital of Australia?",
+   "options": {
+   "A": "Sydney",
+   "B": "Canberra",
+   "C": "Melbourne",
+   "D": "Brisbane"
+   },
+   "answer": "B"
+   },
+  {
+   "question": "How many colors are there in a rainbow?",
+   "options": {
+   "A": "5",
+   "B": "6",
+   "C": "7",
+   "D": "8"
+   },
+   "answer": "C"
+   },
+   {
+   "question": "Who is the president of the United States?",
+   "options": {
+   "A": "Joe Biden",
+   "B": "Donald Trump",
+   "C": "Barack Obama",
+   "D": "George Washington"
+   },
+   "answer": "A"
+   },
+  {
+   "question": "What is the tallest mountain in the world?",
+   "options": {
+   "A": "Mount Kilimanjaro",
+   "B": "Mount Everest",
+   "C": "Mount Fuji",
+   "D": "Mount Rushmore"
+   },
+   "answer": "B"
+   },
+  {
+   "question": "What is the currency of Japan?",
+   "options": {
+   "A": "Yuan",
+   "B": "Euro",
+   "C": "Pound",
+   "D": "Yen"
+   },
+   "answer": "D"
+   }
+]
