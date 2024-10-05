@@ -1,0 +1,167 @@
+[
+  {
+    "question": "Which language is primarily used for web development?",
+    "options": { "A": "Java", "B": "Python", "C": "JavaScript", "D": "C++" },
+    "answer": "C"
+  },
+  {
+    "question": "What does HTML stand for?",
+    "options": { "A": "HyperText Markup Language", "B": "HighText Markup Language", "C": "Hyper Tool Multi Language", "D": "None of the above" },
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is a valid variable declaration in Python?",
+    "options": { "A": "var x = 10;", "B": "int x = 10;", "C": "x = 10", "D": "x := 10" },
+    "answer": "C"
+  },
+  {
+    "question": "Which function is used to print something to the console in Python?",
+    "options": { "A": "print()", "B": "echo()", "C": "log()", "D": "console()" },
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is NOT a data type in JavaScript?",
+    "options": { "A": "String", "B": "Boolean", "C": "Float", "D": "Object" },
+    "answer": "C"
+  },
+  {
+    "question": "What is the correct syntax for creating a function in JavaScript?",
+    "options": { "A": "function: myFunction()", "B": "function myFunction()", "C": "function = myFunction()", "D": "create myFunction()" },
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is used to style web pages?",
+    "options": { "A": "HTML", "B": "CSS", "C": "JavaScript", "D": "PHP" },
+    "answer": "B"
+  },
+  {
+    "question": "Which of these is a looping structure in Python?",
+    "options": { "A": "if", "B": "else", "C": "for", "D": "try" },
+    "answer": "C"
+  },
+  {
+    "question": "Which symbol is used for comments in Python?",
+    "options": { "A": "//", "B": "/* */", "C": "#", "D": "<!-- -->" },
+    "answer": "C"
+  },
+  {
+    "question": "What does CSS stand for?",
+    "options": { "A": "Colorful Style Sheets", "B": "Creative Style Sheets", "C": "Cascading Style Sheets", "D": "Computer Style Sheets" },
+    "answer": "C"
+  },
+  {
+    "question": "Which method is used to remove the last element from an array in JavaScript?",
+    "options": { "A": "pop()", "B": "shift()", "C": "splice()", "D": "delete()" },
+    "answer": "A"
+  },
+  {
+    "question": "What is the output of the following Python code: print(2 ** 3)?",
+    "options": { "A": "6", "B": "8", "C": "9", "D": "Error" },
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is a Python web framework?",
+    "options": { "A": "Django", "B": "Laravel", "C": "Spring", "D": "React" },
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is a server-side scripting language?",
+    "options": { "A": "JavaScript", "B": "HTML", "C": "CSS", "D": "PHP" },
+    "answer": "D"
+  },
+  {
+    "question": "What does SQL stand for?",
+    "options": { "A": "Structured Query Language", "B": "Simple Query Language", "C": "Standard Query Language", "D": "Structured Question Language" },
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is used for version control?",
+    "options": { "A": "Git", "B": "Docker", "C": "Vim", "D": "Node.js" },
+    "answer": "A"
+  },
+  {
+    "question": "Which of these is a NoSQL database?",
+    "options": { "A": "MySQL", "B": "PostgreSQL", "C": "MongoDB", "D": "SQLite" },
+    "answer": "C"
+  },
+  {
+    "question": "What is the purpose of the 'return' statement in a function?",
+    "options": { "A": "Stop the function", "B": "End the program", "C": "Return a value", "D": "None of the above" },
+    "answer": "C"
+  },
+  {
+    "question": "Which HTML tag is used to define an unordered list?",
+    "options": { "A": "<ul>", "B": "<li>", "C": "<ol>", "D": "<p>" },
+    "answer": "A"
+  },
+  {
+    "question": "What is a correct syntax to output 'Hello World' in Java?",
+    "options": { "A": "System.out.println('Hello World')", "B": "console.log('Hello World')", "C": "print('Hello World')", "D": "echo 'Hello World'" },
+    "answer": "A"
+  },
+  {
+    "question": "Which keyword is used to define a constant in JavaScript?",
+    "options": { "A": "var", "B": "let", "C": "const", "D": "static" },
+    "answer": "C"
+  },
+  {
+    "question": "Which method can be used to join two or more arrays in JavaScript?",
+    "options": { "A": "concat()", "B": "combine()", "C": "append()", "D": "merge()" },
+    "answer": "A"
+  },
+  {
+    "question": "What is the index of the first element in an array in most programming languages?",
+    "options": { "A": "0", "B": "1", "C": "-1", "D": "Depends on the language" },
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is an example of a relational database?",
+    "options": { "A": "MongoDB", "B": "MySQL", "C": "Redis", "D": "Cassandra" },
+    "answer": "B"
+  },
+  {
+    "question": "Which Python library is used for data manipulation and analysis?",
+    "options": { "A": "NumPy", "B": "Pandas", "C": "Matplotlib", "D": "SciPy" },
+    "answer": "B"
+  },
+  {
+    "question": "In Java, what is the default value of an int variable?",
+    "options": { "A": "0", "B": "null", "C": "undefined", "D": "1" },
+    "answer": "A"
+  },
+  {
+    "question": "Which JavaScript method is used to find the length of a string?",
+    "options": { "A": "length()", "B": "size()", "C": "len()", "D": "string.length" },
+    "answer": "D"
+  },
+  {
+    "question": "Which of the following is a frontend JavaScript framework?",
+    "options": { "A": "Node.js", "B": "React", "C": "Django", "D": "Flask" },
+    "answer": "B"
+  },
+  {
+    "question": "Which of these is a valid way to declare a variable in JavaScript?",
+    "options": { "A": "let x;", "B": "var x;", "C": "const x;", "D": "All of the above" },
+    "answer": "D"
+  },
+  {
+    "question": "Which CSS property is used to change the background color of an element?",
+    "options": { "A": "color", "B": "background-color", "C": "font-color", "D": "border-color" },
+    "answer": "B"
+  },
+  {
+    "question": "What will the following code return: Boolean(10 > 9)?",
+    "options": { "A": "true", "B": "false", "C": "undefined", "D": "null" },
+    "answer": "A"
+  },
+  {
+    "question": "Which keyword is used to handle exceptions in Python?",
+    "options": { "A": "throw", "B": "except", "C": "catch", "D": "try" },
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is a Python package manager?",
+    "options": { "A": "npm", "B": "pip", "C": "yarn", "D": "brew" },
+    "answer": "B"
+  }
+]
