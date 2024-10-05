@@ -1,0 +1,147 @@
+[
+  {
+    "question": "Who is considered the father of Lord Rama?",
+    "options": { "A": "Dasharatha", "B": "Raghu", "C": "Janaka", "D": "Satyavadi" },
+    "answer": "A"
+  },
+  {
+    "question": "Where was Lord Krishna born?",
+    "options": { "A": "Mathura", "B": "Kumbhakonam", "C": "Ayodhya", "D": "Pandavpur" },
+    "answer": "A"
+  },
+  {
+    "question": "Who are the parents of Lord Ganesha?",
+    "options": { "A": "Shiva and Parvati", "B": "Vishnu and Lakshmi", "C": "Brahma and Saraswati", "D": "Indra and Chandra" },
+    "answer": "A"
+  },
+  {
+    "question": "Which are the major Hindu scriptures?",
+    "options": { "A": "Vedas, Upanishads, Bhagavad Gita", "B": "Quran, Bible", "C": "Ramayana, Mahabharata", "D": "Guru Granth Sahib, Eighteen Puranas" },
+    "answer": "A"
+  },
+  {
+    "question": "Who are the Saptarishi (Seven Great Sages)?",
+    "options": { "A": "Atri, Angira, Brihaspati", "B": "Vashistha, Pulastya, Kashyapa", "C": "Kashyapa, Vashistha, Atri", "D": "Angira, Pulastya, Vashistha" },
+    "answer": "C"
+  },
+  {
+    "question": "How many avatars of Lord Vishnu are there?",
+    "options": { "A": "10", "B": "12", "C": "8", "D": "14" },
+    "answer": "A"
+  },
+  {
+    "question": "What is the sacred river in Hinduism?",
+    "options": { "A": "Ganges", "B": "Yamuna", "C": "Godavari", "D": "Krishna" },
+    "answer": "A"
+  },
+  {
+    "question": "Which Hindu festival celebrates the victory of light over darkness?",
+    "options": { "A": "Diwali", "B": "Holi", "C": "Navratri", "D": "Raksha Bandhan" },
+    "answer": "A"
+  },
+  {
+    "question": "Who wrote the epic Ramayana?",
+    "options": { "A": "Valmiki", "B": "Vyasa", "C": "Tulsidas", "D": "Kalidasa" },
+    "answer": "A"
+  },
+  {
+    "question": "Which goddess is known as the 'Destroyer of Evil Forces'?",
+    "options": { "A": "Durga", "B": "Lakshmi", "C": "Saraswati", "D": "Parvati" },
+    "answer": "A"
+  },
+  {
+    "question": "Who is the Hindu god of creation?",
+    "options": { "A": "Brahma", "B": "Vishnu", "C": "Shiva", "D": "Ganesha" },
+    "answer": "A"
+  },
+  {
+    "question": "In which Hindu scripture is the Bhagavad Gita found?",
+    "options": { "A": "Mahabharata", "B": "Ramayana", "C": "Vedas", "D": "Upanishads" },
+    "answer": "A"
+  },
+  {
+    "question": "What is the name of the cosmic dance performed by Lord Shiva?",
+    "options": { "A": "Nataraja", "B": "Tandava", "C": "Rasa", "D": "Bharatanatyam" },
+    "answer": "B"
+  },
+  {
+    "question": "What is the meaning of the term 'Dharma' in Hinduism?",
+    "options": { "A": "Duty and righteousness", "B": "Wealth", "C": "Pleasure", "D": "Liberation" },
+    "answer": "A"
+  },
+  {
+    "question": "Which deity is known as the 'Elephant-headed God'?",
+    "options": { "A": "Ganesha", "B": "Shiva", "C": "Vishnu", "D": "Krishna" },
+    "answer": "A"
+  },
+  {
+    "question": "Who is the wife of Lord Vishnu?",
+    "options": { "A": "Lakshmi", "B": "Parvati", "C": "Saraswati", "D": "Durga" },
+    "answer": "A"
+  },
+  {
+    "question": "Which epic tells the story of the Kurukshetra War?",
+    "options": { "A": "Mahabharata", "B": "Ramayana", "C": "Vedas", "D": "Puranas" },
+    "answer": "A"
+  },
+  {
+    "question": "What is the primary focus of the Bhagavad Gita?",
+    "options": { "A": "Duty and righteousness", "B": "Love and devotion", "C": "Yoga and meditation", "D": "Philosophy and knowledge" },
+    "answer": "A"
+  },
+  {
+    "question": "Which Hindu goddess is associated with knowledge and arts?",
+    "options": { "A": "Saraswati", "B": "Lakshmi", "C": "Durga", "D": "Parvati" },
+    "answer": "A"
+  },
+  {
+    "question": "Who are the Pandavas in the Mahabharata?",
+    "options": { "A": "Yudhishthira, Bhima, Arjuna, Nakula, Sahadeva", "B": "Rama, Lakshmana, Bharata, Shatrughna", "C": "Krishna, Arjuna, Bhima, Nakula, Sahadeva", "D": "Ram, Sita, Lakshmana, Ravana" },
+    "answer": "A"
+  },
+  {
+    "question": "What is the Hindu term for the cycle of birth, death, and rebirth?",
+    "options": { "A": "Samsara", "B": "Moksha", "C": "Karma", "D": "Dharma" },
+    "answer": "A"
+  },
+  {
+    "question": "Which Hindu festival is known as the 'Festival of Colors'?",
+    "options": { "A": "Holi", "B": "Diwali", "C": "Navratri", "D": "Ganesh Chaturthi" },
+    "answer": "A"
+  },
+  {
+    "question": "Who is known as the 'Protector of the Universe' in Hinduism?",
+    "options": { "A": "Vishnu", "B": "Brahma", "C": "Shiva", "D": "Ganesha" },
+    "answer": "A"
+  },
+  {
+    "question": "Which Hindu goddess is depicted with ten arms?",
+    "options": { "A": "Durga", "B": "Lakshmi", "C": "Saraswati", "D": "Kali" },
+    "answer": "A"
+  },
+  {
+    "question": "Which Hindu scripture is divided into four parts called Vedas?",
+    "options": { "A": "Rigveda", "B": "Yajurveda", "C": "Samaveda", "D": "All of the above" },
+    "answer": "D"
+  },
+  {
+    "question": "What is the main focus of the Upanishads?",
+    "options": { "A": "Philosophy and metaphysics", "B": "Rituals and ceremonies", "C": "Historical narratives", "D": "Legends and folklore" },
+    "answer": "A"
+  },
+  {
+    "question": "What is the sacred text of the Ramayana written by?",
+    "options": { "A": "Valmiki", "B": "Vyasa", "C": "Tulsidas", "D": "Kalidasa" },
+    "answer": "A"
+  },
+  {
+    "question": "Which Hindu festival marks the end of the harvest season?",
+    "options": { "A": "Pongal", "B": "Diwali", "C": "Holi", "D": "Navratri" },
+    "answer": "A"
+  },
+  {
+    "question": "Which river is considered holy and is worshipped in Hinduism?",
+    "options": { "A": "Ganges", "B": "Yamuna", "C": "Saraswati", "D": "Godavari" },
+    "answer": "A"
+  }
+]
