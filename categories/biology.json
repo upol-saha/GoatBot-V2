@@ -1,0 +1,157 @@
+[
+  {
+    "question": "What is the basic unit of life?",
+    "options": { "A": "Atom", "B": "Molecule", "C": "Cell", "D": "Tissue" },
+    "answer": "C"
+  },
+  {
+    "question": "Which organelle is known as the powerhouse of the cell?",
+    "options": { "A": "Nucleus", "B": "Mitochondria", "C": "Ribosome", "D": "Golgi apparatus" },
+    "answer": "B"
+  },
+  {
+    "question": "What is the process by which plants make their own food?",
+    "options": { "A": "Respiration", "B": "Photosynthesis", "C": "Digestion", "D": "Osmosis" },
+    "answer": "B"
+  },
+  {
+    "question": "What is the genetic material found in most living organisms?",
+    "options": { "A": "DNA", "B": "RNA", "C": "Protein", "D": "Carbohydrate" },
+    "answer": "A"
+  },
+  {
+    "question": "Which blood cells are responsible for transporting oxygen?",
+    "options": { "A": "White blood cells", "B": "Red blood cells", "C": "Platelets", "D": "Plasma" },
+    "answer": "B"
+  },
+  {
+    "question": "What is the powerhouse of the plant cell?",
+    "options": { "A": "Chloroplast", "B": "Vacuole", "C": "Cell membrane", "D": "Endoplasmic reticulum" },
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for a group of organisms of the same species living in a particular area?",
+    "options": { "A": "Ecosystem", "B": "Community", "C": "Population", "D": "Habitat" },
+    "answer": "C"
+  },
+  {
+    "question": "Which part of the human brain controls voluntary actions?",
+    "options": { "A": "Cerebrum", "B": "Cerebellum", "C": "Medulla", "D": "Brainstem" },
+    "answer": "A"
+  },
+  {
+    "question": "Which blood vessels carry blood away from the heart?",
+    "options": { "A": "Veins", "B": "Arteries", "C": "Capillaries", "D": "Venules" },
+    "answer": "B"
+  },
+  {
+    "question": "What is the term for organisms that can make their own food?",
+    "options": { "A": "Heterotrophs", "B": "Autotrophs", "C": "Decomposers", "D": "Herbivores" },
+    "answer": "B"
+  },
+  {
+    "question": "What is the chemical that carries genetic information in most organisms?",
+    "options": { "A": "Glucose", "B": "Protein", "C": "DNA", "D": "Starch" },
+    "answer": "C"
+  },
+  {
+    "question": "What is the name of the process by which a cell divides into two daughter cells?",
+    "options": { "A": "Osmosis", "B": "Mitosis", "C": "Meiosis", "D": "Cytokinesis" },
+    "answer": "B"
+  },
+  {
+    "question": "Which organ in the human body is responsible for filtering blood?",
+    "options": { "A": "Lungs", "B": "Heart", "C": "Kidneys", "D": "Liver" },
+    "answer": "C"
+  },
+  {
+    "question": "Which type of cell lacks a nucleus?",
+    "options": { "A": "Prokaryotic cell", "B": "Eukaryotic cell", "C": "Plant cell", "D": "Animal cell" },
+    "answer": "A"
+  },
+  {
+    "question": "Which molecule is known as the 'energy currency' of the cell?",
+    "options": { "A": "DNA", "B": "RNA", "C": "ATP", "D": "Glucose" },
+    "answer": "C"
+  },
+  {
+    "question": "Which organ system is responsible for transporting nutrients and oxygen throughout the body?",
+    "options": { "A": "Digestive system", "B": "Respiratory system", "C": "Circulatory system", "D": "Nervous system" },
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for the maintenance of a stable internal environment in an organism?",
+    "options": { "A": "Metabolism", "B": "Homeostasis", "C": "Evolution", "D": "Adaptation" },
+    "answer": "B"
+  },
+  {
+    "question": "Which type of reproduction involves the fusion of gametes?",
+    "options": { "A": "Asexual reproduction", "B": "Budding", "C": "Sexual reproduction", "D": "Binary fission" },
+    "answer": "C"
+  },
+  {
+    "question": "Which structure in the plant cell is responsible for photosynthesis?",
+    "options": { "A": "Nucleus", "B": "Mitochondria", "C": "Chloroplast", "D": "Ribosome" },
+    "answer": "C"
+  },
+  {
+    "question": "Which is the largest organ in the human body?",
+    "options": { "A": "Heart", "B": "Liver", "C": "Skin", "D": "Lungs" },
+    "answer": "C"
+  },
+  {
+    "question": "What type of macromolecule are enzymes?",
+    "options": { "A": "Lipids", "B": "Proteins", "C": "Carbohydrates", "D": "Nucleic acids" },
+    "answer": "B"
+  },
+  {
+    "question": "Which part of the cell contains the genetic material?",
+    "options": { "A": "Cytoplasm", "B": "Cell membrane", "C": "Nucleus", "D": "Ribosome" },
+    "answer": "C"
+  },
+  {
+    "question": "What is the primary function of the large intestine?",
+    "options": { "A": "Absorb nutrients", "B": "Absorb water", "C": "Store food", "D": "Produce bile" },
+    "answer": "B"
+  },
+  {
+    "question": "Which blood type is considered the universal donor?",
+    "options": { "A": "A", "B": "B", "C": "AB", "D": "O" },
+    "answer": "D"
+  },
+  {
+    "question": "What is the term for an animal that eats both plants and animals?",
+    "options": { "A": "Herbivore", "B": "Carnivore", "C": "Omnivore", "D": "Decomposer" },
+    "answer": "C"
+  },
+  {
+    "question": "What is the primary gas taken in by plants during photosynthesis?",
+    "options": { "A": "Oxygen", "B": "Nitrogen", "C": "Carbon dioxide", "D": "Hydrogen" },
+    "answer": "C"
+  },
+  {
+    "question": "Which vitamin is produced in the skin when exposed to sunlight?",
+    "options": { "A": "Vitamin A", "B": "Vitamin B", "C": "Vitamin C", "D": "Vitamin D" },
+    "answer": "D"
+  },
+  {
+    "question": "What is the process by which water moves across a semi-permeable membrane?",
+    "options": { "A": "Diffusion", "B": "Osmosis", "C": "Active transport", "D": "Facilitated diffusion" },
+    "answer": "B"
+  },
+  {
+    "question": "Which organ system controls and coordinates the body’s actions?",
+    "options": { "A": "Skeletal system", "B": "Muscular system", "C": "Nervous system", "D": "Digestive system" },
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for the relationship between two species where both benefit?",
+    "options": { "A": "Parasitism", "B": "Mutualism", "C": "Commensalism", "D": "Competition" },
+    "answer": "B"
+  },
+  {
+    "question": "Which type of cell division results in the production of four genetically unique daughter cells?",
+    "options": { "A": "Mitosis", "B": "Meiosis", "C": "Binary fission", "D": "Budding" },
+    "answer": "B"
+  }
+]
