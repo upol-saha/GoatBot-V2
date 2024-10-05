@@ -1,0 +1,29 @@
+{
+  "undefined": {
+    "characterName": "Naruto",
+    "ownerName": "UPoL",
+    "bio": "Hokage",
+    "balance": 2290,
+    "health": 200,
+    "strength": 40,
+    "defense": 40,
+    "inventory": [
+      {
+        "name": "apple",
+        "number": 0
+      },
+      {
+        "name": "medkit",
+        "number": 0
+      },
+      {
+        "name": "apple",
+        "number": 2
+      },
+      {
+        "name": "banana",
+        "number": 1
+      }
+    ]
+  }
+}
