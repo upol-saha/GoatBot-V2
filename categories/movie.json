@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Who directed the movie 'Titanic'?",
+    "options": { "A": "Steven Spielberg", "B": "James Cameron", "C": "Christopher Nolan", "D": "Quentin Tarantino" },
+    "answer": "B"
+  },
+  {
+    "question": "Which movie won the Academy Award for Best Picture in 2020?",
+    "options": { "A": "1917", "B": "Joker", "C": "Parasite", "D": "Once Upon a Time in Hollywood" },
+    "answer": "C"
+  },
+  {
+    "question": "Which actor played Jack Sparrow in the 'Pirates of the Caribbean' series?",
+    "options": { "A": "Leonardo DiCaprio", "B": "Johnny Depp", "C": "Brad Pitt", "D": "Tom Cruise" },
+    "answer": "B"
+  },
+  {
+    "question": "In the movie 'The Matrix', what color pill does Neo take?",
+    "options": { "A": "Blue", "B": "Red", "C": "Green", "D": "Yellow" },
+    "answer": "B"
+  },
+  {
+    "question": "Who voiced Woody in 'Toy Story'?",
+    "options": { "A": "Tom Hanks", "B": "Tim Allen", "C": "Billy Crystal", "D": "Robin Williams" },
+    "answer": "A"
+  },
+  {
+    "question": "Which movie is known for the quote, 'May the Force be with you'?",
+    "options": { "A": "Star Trek", "B": "Star Wars", "C": "Guardians of the Galaxy", "D": "The Lord of the Rings" },
+    "answer": "B"
+  },
+  {
+    "question": "Which 1994 film stars Tom Hanks as a man with a low IQ who inadvertently influences important historical events?",
+    "options": { "A": "The Green Mile", "B": "Forrest Gump", "C": "Apollo 13", "D": "Saving Private Ryan" },
+    "answer": "B"
+  },
+  {
+    "question": "What is the name of the kingdom in Disney's 'Frozen'?",
+    "options": { "A": "Atlantica", "B": "Arendelle", "C": "Narnia", "D": "Wonderland" },
+    "answer": "B"
+  },
+  {
+    "question": "Which superhero movie features a villain named Thanos?",
+    "options": { "A": "Wonder Woman", "B": "Avengers: Infinity War", "C": "Justice League", "D": "Spider-Man: Homecoming" },
+    "answer": "B"
+  },
+  {
+    "question": "In the movie 'Inception', who played the lead character Dom Cobb?",
+    "options": { "A": "Leonardo DiCaprio", "B": "Matt Damon", "C": "Christian Bale", "D": "Bradley Cooper" },
+    "answer": "A"
+  },
+  {
+    "question": "What year was the first 'Harry Potter' movie released?",
+    "options": { "A": "1999", "B": "2000", "C": "2001", "D": "2002" },
+    "answer": "C"
+  },
+  {
+    "question": "Which film features the song 'My Heart Will Go On'?",
+    "options": { "A": "The Bodyguard", "B": "Moulin Rouge!", "C": "Titanic", "D": "Ghost" },
+    "answer": "C"
+  },
+  {
+    "question": "Who played the Joker in the 2008 film 'The Dark Knight'?",
+    "options": { "A": "Heath Ledger", "B": "Joaquin Phoenix", "C": "Jack Nicholson", "D": "Jared Leto" },
+    "answer": "A"
+  },
+  {
+    "question": "In which movie does Tom Cruise famously dance in his underwear?",
+    "options": { "A": "Risky Business", "B": "Top Gun", "C": "Rain Man", "D": "Jerry Maguire" },
+    "answer": "A"
+  },
+  {
+    "question": "What is the highest-grossing movie of all time (as of 2023)?",
+    "options": { "A": "Titanic", "B": "Avatar", "C": "Avengers: Endgame", "D": "The Lion King" },
+    "answer": "B"
+  },
+  {
+    "question": "Which actress played Katniss Everdeen in 'The Hunger Games' series?",
+    "options": { "A": "Emma Watson", "B": "Kristen Stewart", "C": "Jennifer Lawrence", "D": "Scarlett Johansson" },
+    "answer": "C"
+  },
+  {
+    "question": "Which 1999 movie is about a computer hacker who discovers the truth about reality?",
+    "options": { "A": "The Matrix", "B": "Fight Club", "C": "The Sixth Sense", "D": "American Beauty" },
+    "answer": "A"
+  },
+  {
+    "question": "Which film features a fight between Rocky Balboa and Apollo Creed?",
+    "options": { "A": "Raging Bull", "B": "Creed", "C": "Rocky", "D": "Million Dollar Baby" },
+    "answer": "C"
+  },
+  {
+    "question": "Who directed the movie 'Inception'?",
+    "options": { "A": "Steven Spielberg", "B": "Martin Scorsese", "C": "Christopher Nolan", "D": "Quentin Tarantino" },
+    "answer": "C"
+  },
+  {
+    "question": "In the film 'The Lion King', what is the name of Simba’s father?",
+    "options": { "A": "Scar", "B": "Mufasa", "C": "Timon", "D": "Zazu" },
+    "answer": "B"
+  },
+  {
+    "question": "Which 1997 film was the first to gross over $1 billion at the box office?",
+    "options": { "A": "Jurassic Park", "B": "The Phantom Menace", "C": "Titanic", "D": "The Lion King" },
+    "answer": "C"
+  },
+  {
+    "question": "Which film series features a character named John Wick?",
+    "options": { "A": "Die Hard", "B": "Taken", "C": "Mission: Impossible", "D": "John Wick" },
+    "answer": "D"
+  },
+  {
+    "question": "Who played the character of Tony Stark in the Marvel Cinematic Universe?",
+    "options": { "A": "Chris Evans", "B": "Mark Ruffalo", "C": "Robert Downey Jr.", "D": "Chris Hemsworth" },
+    "answer": "C"
+  },
+  {
+    "question": "Which actor starred as Mad Max in 'Mad Max: Fury Road'?",
+    "options": { "A": "Tom Hardy", "B": "Mel Gibson", "C": "Chris Hemsworth", "D": "Hugh Jackman" },
+    "answer": "A"
+  },
+  {
+    "question": "What is the name of the 2013 Disney film featuring a snowman named Olaf?",
+    "options": { "A": "Tangled", "B": "Frozen", "C": "Brave", "D": "Moana" },
+    "answer": "B"
+  },
+  {
+    "question": "Who directed the 'Lord of the Rings' trilogy?",
+    "options": { "A": "George Lucas", "B": "James Cameron", "C": "Peter Jackson", "D": "David Fincher" },
+    "answer": "C"
+  },
+  {
+    "question": "Which film's theme song is 'Eye of the Tiger'?",
+    "options": { "A": "Rocky III", "B": "Top Gun", "C": "Footloose", "D": "Flashdance" },
+    "answer": "A"
+  },
+  {
+    "question": "What is the name of the main antagonist in 'The Silence of the Lambs'?",
+    "options": { "A": "Hannibal Lecter", "B": "Norman Bates", "C": "Buffalo Bill", "D": "Patrick Bateman" },
+    "answer": "A"
+  },
+  {
+    "question": "Who starred as Forrest Gump in the movie 'Forrest Gump'?",
+    "options": { "A": "Tom Hanks", "B": "Tom Cruise", "C": "Matt Damon", "D": "Harrison Ford" },
+    "answer": "A"
+  },
+  {
+    "question": "Which 2016 film features the song 'City of Stars'?",
+    "options": { "A": "La La Land", "B": "The Greatest Showman", "C": "Beauty and the Beast", "D": "Sing" },
+    "answer": "A"
+  }
+]
