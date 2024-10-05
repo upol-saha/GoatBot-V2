@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Who wrote 'Pride and Prejudice'?",
+    "options": { "A": "Jane Austen", "B": "Charles Dickens", "C": "Mark Twain", "D": "Emily Brontë" },
+    "answer": "A"
+  },
+  {
+    "question": "Which novel begins with the line 'Call me Ishmael'?",
+    "options": { "A": "Moby-Dick", "B": "The Great Gatsby", "C": "To Kill a Mockingbird", "D": "1984" },
+    "answer": "A"
+  },
+  {
+    "question": "What is the main language used in Shakespeare's plays?",
+    "options": { "A": "Modern English", "B": "Old English", "C": "Middle English", "D": "Classical English" },
+    "answer": "C"
+  },
+  {
+    "question": "Which poet is known for the work 'The Raven'?",
+    "options": { "A": "Edgar Allan Poe", "B": "Robert Frost", "C": "Walt Whitman", "D": "Emily Dickinson" },
+    "answer": "A"
+  },
+  {
+    "question": "What is the name of the wizarding school in the Harry Potter series?",
+    "options": { "A": "Hogwarts", "B": "Durmstrang", "C": "Beauxbatons", "D": "Ilvermorny" },
+    "answer": "A"
+  },
+  {
+    "question": "In which novel would you find the character Holden Caulfield?",
+    "options": { "A": "The Catcher in the Rye", "B": "To Kill a Mockingbird", "C": "The Great Gatsby", "D": "1984" },
+    "answer": "A"
+  },
+  {
+    "question": "Who wrote 'The Catcher in the Rye'?",
+    "options": { "A": "J.D. Salinger", "B": "J.K. Rowling", "C": "F. Scott Fitzgerald", "D": "Ernest Hemingway" },
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for a story told in verse form?",
+    "options": { "A": "Novel", "B": "Short Story", "C": "Poem", "D": "Drama" },
+    "answer": "C"
+  },
+  {
+    "question": "Which play is known for the line 'To be, or not to be'?",
+    "options": { "A": "Hamlet", "B": "Macbeth", "C": "Othello", "D": "King Lear" },
+    "answer": "A"
+  },
+  {
+    "question": "Who is the author of '1984'?",
+    "options": { "A": "George Orwell", "B": "Aldous Huxley", "C": "Ray Bradbury", "D": "J.D. Salinger" },
+    "answer": "A"
+  },
+  {
+    "question": "What is the name of the famous detective created by Arthur Conan Doyle?",
+    "options": { "A": "Sherlock Holmes", "B": "Hercule Poirot", "C": "Miss Marple", "D": "Sam Spade" },
+    "answer": "A"
+  },
+  {
+    "question": "In which novel would you find the character Jay Gatsby?",
+    "options": { "A": "The Great Gatsby", "B": "The Old Man and the Sea", "C": "Catch-22", "D": "Brave New World" },
+    "answer": "A"
+  },
+  {
+    "question": "Who wrote 'To Kill a Mockingbird'?",
+    "options": { "A": "Harper Lee", "B": "Mark Twain", "C": "Ernest Hemingway", "D": "John Steinbeck" },
+    "answer": "A"
+  },
+  {
+    "question": "What genre is 'The Hobbit' by J.R.R. Tolkien?",
+    "options": { "A": "Fantasy", "B": "Science Fiction", "C": "Mystery", "D": "Romance" },
+    "answer": "A"
+  },
+  {
+    "question": "Which novel features the character Elizabeth Bennet?",
+    "options": { "A": "Pride and Prejudice", "B": "Jane Eyre", "C": "Wuthering Heights", "D": "Sense and Sensibility" },
+    "answer": "A"
+  },
+  {
+    "question": "Who wrote 'Brave New World'?",
+    "options": { "A": "Aldous Huxley", "B": "George Orwell", "C": "Ray Bradbury", "D": "J.D. Salinger" },
+    "answer": "A"
+  },
+  {
+    "question": "What is the name of the girl who falls into a rabbit hole in 'Alice's Adventures in Wonderland'?",
+    "options": { "A": "Alice", "B": "Dorothy", "C": "Wendy", "D": "Lily" },
+    "answer": "A"
+  },
+  {
+    "question": "Which novel features the character Atticus Finch?",
+    "options": { "A": "To Kill a Mockingbird", "B": "The Catcher in the Rye", "C": "The Grapes of Wrath", "D": "Of Mice and Men" },
+    "answer": "A"
+  },
+  {
+    "question": "Who wrote 'The Lord of the Rings' trilogy?",
+    "options": { "A": "J.R.R. Tolkien", "B": "J.K. Rowling", "C": "C.S. Lewis", "D": "George R.R. Martin" },
+    "answer": "A"
+  },
+  {
+    "question": "What is the main setting of 'The Great Gatsby'?",
+    "options": { "A": "New York", "B": "Chicago", "C": "San Francisco", "D": "Los Angeles" },
+    "answer": "A"
+  },
+  {
+    "question": "Who wrote the play 'Macbeth'?",
+    "options": { "A": "William Shakespeare", "B": "Christopher Marlowe", "C": "Ben Jonson", "D": "John Milton" },
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following novels was written by Charles Dickens?",
+    "options": { "A": "Great Expectations", "B": "Moby-Dick", "C": "The Catcher in the Rye", "D": "The Old Man and the Sea" },
+    "answer": "A"
+  },
+  {
+    "question": "What is the primary theme of George Orwell's 'Animal Farm'?",
+    "options": { "A": "Political Allegory", "B": "Romance", "C": "Science Fiction", "D": "Historical Fiction" },
+    "answer": "A"
+  },
+  {
+    "question": "Which novel is set in a dystopian future controlled by Big Brother?",
+    "options": { "A": "1984", "B": "Brave New World", "C": "Fahrenheit 451", "D": "The Handmaid's Tale" },
+    "answer": "A"
+  },
+  {
+    "question": "Who is the author of 'The Chronicles of Narnia' series?",
+    "options": { "A": "C.S. Lewis", "B": "J.K. Rowling", "C": "J.R.R. Tolkien", "D": "Philip Pullman" },
+    "answer": "A"
+  },
+  {
+    "question": "Which classic novel features the character Hester Prynne?",
+    "options": { "A": "The Scarlet Letter", "B": "Wuthering Heights", "C": "Jane Eyre", "D": "The House of the Seven Gables" },
+    "answer": "A"
+  },
+  {
+    "question": "In which novel does the character Pip appear?",
+    "options": { "A": "Great Expectations", "B": "Oliver Twist", "C": "David Copperfield", "D": "A Tale of Two Cities" },
+    "answer": "A"
+  },
+  {
+    "question": "Who wrote the novel 'The Road'?",
+    "options": { "A": "Cormac McCarthy", "B": "Stephen King", "C": "John Grisham", "D": "Dan Brown" },
+    "answer": "A"
+  },
+  {
+    "question": "Which novel features the character Winston Smith?",
+    "options": { "A": "1984", "B": "Brave New World", "C": "Fahrenheit 451", "D": "The Handmaid's Tale" },
+    "answer": "A"
+  },
+  {
+    "question": "What is the name of the protagonist in 'The Hunger Games'?",
+    "options": { "A": "Katniss Everdeen", "B": "Hermione Granger", "C": "Arya Stark", "D": "Bella Swan" },
+    "answer": "A"
+  }
+]
