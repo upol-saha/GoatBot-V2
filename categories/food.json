@@ -1,0 +1,157 @@
+[
+  {
+    "question": "What is the main ingredient in guacamole?",
+    "options": { "A": "Tomato", "B": "Avocado", "C": "Onion", "D": "Pepper" },
+    "answer": "B"
+  },
+  {
+    "question": "Which country is known for inventing sushi?",
+    "options": { "A": "China", "B": "Japan", "C": "Korea", "D": "Thailand" },
+    "answer": "B"
+  },
+  {
+    "question": "What type of food is 'sashimi'?",
+    "options": { "A": "Cooked meat", "B": "Raw fish", "C": "Vegetable dish", "D": "Rice dish" },
+    "answer": "B"
+  },
+  {
+    "question": "What is the main ingredient in traditional hummus?",
+    "options": { "A": "Chickpeas", "B": "Lentils", "C": "Peanuts", "D": "Soybeans" },
+    "answer": "A"
+  },
+  {
+    "question": "Which fruit is known for having its seeds on the outside?",
+    "options": { "A": "Strawberry", "B": "Blueberry", "C": "Raspberry", "D": "Blackberry" },
+    "answer": "A"
+  },
+  {
+    "question": "Which type of pasta is shaped like small tubes?",
+    "options": { "A": "Spaghetti", "B": "Fusilli", "C": "Penne", "D": "Linguine" },
+    "answer": "C"
+  },
+  {
+    "question": "What is the main ingredient in the dish 'paella'?",
+    "options": { "A": "Chicken", "B": "Seafood", "C": "Pork", "D": "Vegetables" },
+    "answer": "B"
+  },
+  {
+    "question": "What type of cheese is used in a traditional Caprese salad?",
+    "options": { "A": "Mozzarella", "B": "Cheddar", "C": "Gorgonzola", "D": "Feta" },
+    "answer": "A"
+  },
+  {
+    "question": "What type of pastry is used to make a croissant?",
+    "options": { "A": "Puff pastry", "B": "Shortcrust pastry", "C": "Choux pastry", "D": "Filo pastry" },
+    "answer": "A"
+  },
+  {
+    "question": "Which vegetable is traditionally used in a Greek moussaka?",
+    "options": { "A": "Potato", "B": "Eggplant", "C": "Zucchini", "D": "Carrot" },
+    "answer": "B"
+  },
+  {
+    "question": "What type of food is 'sauerbraten'?",
+    "options": { "A": "A type of soup", "B": "A type of stew", "C": "A type of bread", "D": "A type of pasta" },
+    "answer": "B"
+  },
+  {
+    "question": "What is the main ingredient in the Middle Eastern dish 'falafel'?",
+    "options": { "A": "Chickpeas", "B": "Lentils", "C": "Potatoes", "D": "Rice" },
+    "answer": "A"
+  },
+  {
+    "question": "Which fruit is known as the 'king of fruits' and is infamous for its strong smell?",
+    "options": { "A": "Mango", "B": "Durian", "C": "Pineapple", "D": "Papaya" },
+    "answer": "B"
+  },
+  {
+    "question": "What is the main ingredient in the French dish 'ratatouille'?",
+    "options": { "A": "Meat", "B": "Cheese", "C": "Vegetables", "D": "Seafood" },
+    "answer": "C"
+  },
+  {
+    "question": "Which country is famous for the dish 'poutine'?",
+    "options": { "A": "France", "B": "Canada", "C": "Belgium", "D": "United States" },
+    "answer": "B"
+  },
+  {
+    "question": "What type of food is 'kimchi'?",
+    "options": { "A": "Pickled vegetable", "B": "Rice dish", "C": "Meat stew", "D": "Noodle soup" },
+    "answer": "A"
+  },
+  {
+    "question": "Which nut is used to make marzipan?",
+    "options": { "A": "Almond", "B": "Cashew", "C": "Walnut", "D": "Pistachio" },
+    "answer": "A"
+  },
+  {
+    "question": "Which spice is known as 'saffron' harvested from?",
+    "options": { "A": "A flower", "B": "A root", "C": "A leaf", "D": "A seed" },
+    "answer": "A"
+  },
+  {
+    "question": "What is the name of the traditional Italian bread that is often used to make bruschetta?",
+    "options": { "A": "Ciabatta", "B": "Focaccia", "C": "Baguette", "D": "Sourdough" },
+    "answer": "A"
+  },
+  {
+    "question": "Which country is the origin of the dish 'bangers and mash'?",
+    "options": { "A": "Ireland", "B": "England", "C": "Scotland", "D": "Wales" },
+    "answer": "B"
+  },
+  {
+    "question": "Which sauce is made from fermented soybeans and is commonly used in Asian cuisine?",
+    "options": { "A": "Soy sauce", "B": "Worcestershire sauce", "C": "Hot sauce", "D": "Barbecue sauce" },
+    "answer": "A"
+  },
+  {
+    "question": "What is the name of the Spanish dish made of saffron-flavored rice and seafood or meat?",
+    "options": { "A": "Paella", "B": "Tapas", "C": "Gazpacho", "D": "Churros" },
+    "answer": "A"
+  },
+  {
+    "question": "Which type of bean is used to make tofu?",
+    "options": { "A": "Black bean", "B": "Soybean", "C": "Kidney bean", "D": "Lima bean" },
+    "answer": "B"
+  },
+  {
+    "question": "Which fruit is used to make guacamole?",
+    "options": { "A": "Avocado", "B": "Tomato", "C": "Mango", "D": "Banana" },
+    "answer": "A"
+  },
+  {
+    "question": "Which country is known for its cheese called 'feta'?",
+    "options": { "A": "Greece", "B": "Italy", "C": "France", "D": "Spain" },
+    "answer": "A"
+  },
+  {
+    "question": "Which part of the plant is used to make ginger ale?",
+    "options": { "A": "Root", "B": "Leaf", "C": "Stem", "D": "Flower" },
+    "answer": "A"
+  },
+  {
+    "question": "What is the traditional filling of a British 'Cornish pasty'?",
+    "options": { "A": "Beef and vegetables", "B": "Chicken and mushrooms", "C": "Pork and apple", "D": "Lamb and mint" },
+    "answer": "A"
+  },
+  {
+    "question": "What type of dish is 'biryani'?",
+    "options": { "A": "Rice", "B": "Bread", "C": "Soup", "D": "Noodle" },
+    "answer": "A"
+  },
+  {
+    "question": "Which dessert is made from layers of sponge cake and custard?",
+    "options": { "A": "Tiramisu", "B": "Cheesecake", "C": "Pavlova", "D": "Crème brûlée" },
+    "answer": "A"
+  },
+  {
+    "question": "What is the main ingredient in a Caesar salad dressing?",
+    "options": { "A": "Ranch", "B": "Balsamic vinegar", "C": "Anchovies", "D": "Lemon juice" },
+    "answer": "C"
+  },
+  {
+    "question": "Which nut is used to make pesto sauce?",
+    "options": { "A": "Pine nut", "B": "Almond", "C": "Cashew", "D": "Walnut" },
+    "answer": "A"
+  }
+]
