@@ -1,0 +1,157 @@
+[
+  {
+    "question": "Which of the following is a correct sentence?",
+    "options": { "A": "She don't like apples.", "B": "She doesn't likes apples.", "C": "She doesn't like apples.", "D": "She isn't likes apples." },
+    "answer": "C"
+  },
+  {
+    "question": "What is the plural form of the word 'child'?",
+    "options": { "A": "Childs", "B": "Children", "C": "Childrens", "D": "Childes" },
+    "answer": "B"
+  },
+  {
+    "question": "What type of word is 'quickly'?",
+    "options": { "A": "Noun", "B": "Adjective", "C": "Verb", "D": "Adverb" },
+    "answer": "D"
+  },
+  {
+    "question": "Which sentence is in the passive voice?",
+    "options": { "A": "She is writing a letter.", "B": "A letter is being written by her.", "C": "She will write a letter.", "D": "She writes a letter." },
+    "answer": "B"
+  },
+  {
+    "question": "What is the past tense of the verb 'run'?",
+    "options": { "A": "Runned", "B": "Ran", "C": "Running", "D": "Runs" },
+    "answer": "B"
+  },
+  {
+    "question": "Which word is a preposition?",
+    "options": { "A": "Under", "B": "Quickly", "C": "Beautiful", "D": "He" },
+    "answer": "A"
+  },
+  {
+    "question": "Which sentence uses the correct form of the verb?",
+    "options": { "A": "He don't know.", "B": "He doesn't know.", "C": "He doesn't knew.", "D": "He don't knows." },
+    "answer": "B"
+  },
+  {
+    "question": "Which sentence is an example of a compound sentence?",
+    "options": { "A": "I went to the store.", "B": "I went to the store, and I bought some bread.", "C": "When I went to the store, I bought bread.", "D": "Buying bread at the store." },
+    "answer": "B"
+  },
+  {
+    "question": "Which sentence is punctuated correctly?",
+    "options": { "A": "I like apples; oranges, and bananas.", "B": "I like apples, oranges, and bananas.", "C": "I like: apples oranges and bananas.", "D": "I like apples oranges; and bananas." },
+    "answer": "B"
+  },
+  {
+    "question": "What is the comparative form of 'happy'?",
+    "options": { "A": "More happy", "B": "Happier", "C": "Happiest", "D": "Most happy" },
+    "answer": "B"
+  },
+  {
+    "question": "What is the correct form of the verb in this sentence: 'If I ___ you, I would go.'",
+    "options": { "A": "Was", "B": "Am", "C": "Were", "D": "Will be" },
+    "answer": "C"
+  },
+  {
+    "question": "Which is the correct pronoun to complete this sentence: 'Neither John nor Sarah brought ___ books.'",
+    "options": { "A": "His", "B": "Their", "C": "Her", "D": "His or her" },
+    "answer": "D"
+  },
+  {
+    "question": "What is the superlative form of 'good'?",
+    "options": { "A": "Gooder", "B": "Better", "C": "Best", "D": "Most good" },
+    "answer": "C"
+  },
+  {
+    "question": "Which sentence correctly uses a possessive apostrophe?",
+    "options": { "A": "That is Johns book.", "B": "That is John's book.", "C": "That is John book's.", "D": "That is John's books." },
+    "answer": "B"
+  },
+  {
+    "question": "Which sentence is in the future perfect tense?",
+    "options": { "A": "She will have finished the project.", "B": "She finished the project.", "C": "She is finishing the project.", "D": "She finishes the project." },
+    "answer": "A"
+  },
+  {
+    "question": "What type of sentence is this: 'Close the door.'?",
+    "options": { "A": "Declarative", "B": "Interrogative", "C": "Imperative", "D": "Exclamatory" },
+    "answer": "C"
+  },
+  {
+    "question": "What is the plural form of 'mouse'?",
+    "options": { "A": "Mouses", "B": "Mice", "C": "Mousees", "D": "Mices" },
+    "answer": "B"
+  },
+  {
+    "question": "Which word is a conjunction?",
+    "options": { "A": "Run", "B": "Because", "C": "Quick", "D": "Although" },
+    "answer": "B"
+  },
+  {
+    "question": "Which sentence is correct?",
+    "options": { "A": "They're going to the park.", "B": "Their going to the park.", "C": "There going to the park.", "D": "Their going to there park." },
+    "answer": "A"
+  },
+  {
+    "question": "Which is the correct order of adjectives in this sentence: 'She has a ___ dog.'?",
+    "options": { "A": "Small white fluffy", "B": "White small fluffy", "C": "Fluffy small white", "D": "Fluffy white small" },
+    "answer": "A"
+  },
+  {
+    "question": "Which word is an interjection?",
+    "options": { "A": "Wow", "B": "Fast", "C": "Since", "D": "Happy" },
+    "answer": "A"
+  },
+  {
+    "question": "What is the past participle of 'eat'?",
+    "options": { "A": "Eated", "B": "Ate", "C": "Eating", "D": "Eaten" },
+    "answer": "D"
+  },
+  {
+    "question": "Which sentence contains a simile?",
+    "options": { "A": "She is as fast as lightning.", "B": "She runs faster than him.", "C": "She runs really fast.", "D": "She is the fastest runner." },
+    "answer": "A"
+  },
+  {
+    "question": "What is the correct form of 'to be' in this sentence: 'I wish I ___ taller.'?",
+    "options": { "A": "Am", "B": "Was", "C": "Were", "D": "Will be" },
+    "answer": "C"
+  },
+  {
+    "question": "Which word is an adjective?",
+    "options": { "A": "Careful", "B": "Carefully", "C": "Care", "D": "Caringly" },
+    "answer": "A"
+  },
+  {
+    "question": "Which sentence is correct?",
+    "options": { "A": "It's cold outside.", "B": "Its cold outside.", "C": "Its' cold outside.", "D": "Its's cold outside." },
+    "answer": "A"
+  },
+  {
+    "question": "Which sentence is in the present perfect tense?",
+    "options": { "A": "I have seen that movie.", "B": "I see that movie.", "C": "I will see that movie.", "D": "I am seeing that movie." },
+    "answer": "A"
+  },
+  {
+    "question": "What is the correct verb form in this sentence: 'They ___ finished the race.'?",
+    "options": { "A": "Has", "B": "Have", "C": "Had", "D": "Are" },
+    "answer": "B"
+  },
+  {
+    "question": "What is the correct comparative form of 'far'?",
+    "options": { "A": "More far", "B": "Farest", "C": "Farther", "D": "Furthest" },
+    "answer": "C"
+  },
+  {
+    "question": "Which word is a synonym for 'happy'?",
+    "options": { "A": "Sad", "B": "Joyful", "C": "Angry", "D": "Fearful" },
+    "answer": "B"
+  },
+  {
+    "question": "Which sentence is an example of indirect speech?",
+    "options": { "A": "'I am hungry,' said John.", "B": "John said that he was hungry.", "C": "John is hungry.", "D": "'I am hungry,' said John loudly." },
+    "answer": "B"
+  }
+]
