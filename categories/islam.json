@@ -1,0 +1,147 @@
+[
+  {
+    "question": "Who is the last prophet in Islam?",
+    "options": { "A": "Prophet Ibrahim", "B": "Prophet Musa", "C": "Prophet Isa", "D": "Prophet Muhammad" },
+    "answer": "D"
+  },
+  {
+    "question": "How many pillars of Islam are there?",
+    "options": { "A": "Four", "B": "Five", "C": "Six", "D": "Seven" },
+    "answer": "B"
+  },
+  {
+    "question": "What is the first pillar of Islam?",
+    "options": { "A": "Salah", "B": "Shahada", "C": "Sawm", "D": "Zakat" },
+    "answer": "B"
+  },
+  {
+    "question": "What is the holy book of Islam?",
+    "options": { "A": "Torah", "B": "Psalms", "C": "Bible", "D": "Qur'an" },
+    "answer": "D"
+  },
+  {
+    "question": "Which angel delivered Allah’s message to Prophet Muhammad (PBUH)?",
+    "options": { "A": "Angel Jibril", "B": "Angel Israfil", "C": "Angel Mika'il", "D": "Angel Azrael" },
+    "answer": "A"
+  },
+  {
+    "question": "In which city was Prophet Muhammad (PBUH) born?",
+    "options": { "A": "Madinah", "B": "Mecca", "C": "Jerusalem", "D": "Baghdad" },
+    "answer": "B"
+  },
+  {
+    "question": "How many times do Muslims pray daily?",
+    "options": { "A": "Three", "B": "Five", "C": "Six", "D": "Seven" },
+    "answer": "B"
+  },
+  {
+    "question": "During which Islamic month do Muslims fast from dawn to sunset?",
+    "options": { "A": "Dhul Hijjah", "B": "Ramadan", "C": "Muharram", "D": "Shawwal" },
+    "answer": "B"
+  },
+  {
+    "question": "What is the significance of the Kaaba in Islam?",
+    "options": { "A": "It is the birthplace of Prophet Muhammad (PBUH)", "B": "It is the place of the final revelation", "C": "It is the direction Muslims face in prayer", "D": "It is the place where the Qur'an was revealed" },
+    "answer": "C"
+  },
+  {
+    "question": "What is the Arabic term for charity in Islam?",
+    "options": { "A": "Sawm", "B": "Zakat", "C": "Hajj", "D": "Shahada" },
+    "answer": "B"
+  },
+  {
+    "question": "Which companion of the Prophet (PBUH) was the first Caliph of Islam?",
+    "options": { "A": "Umar ibn al-Khattab", "B": "Ali ibn Abi Talib", "C": "Abu Bakr", "D": "Uthman ibn Affan" },
+    "answer": "C"
+  },
+  {
+    "question": "How many surahs are there in the Qur'an?",
+    "options": { "A": "110", "B": "113", "C": "114", "D": "120" },
+    "answer": "C"
+  },
+  {
+    "question": "What is the second pillar of Islam?",
+    "options": { "A": "Sawm", "B": "Salah", "C": "Hajj", "D": "Zakat" },
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is a celebration after Ramadan ends?",
+    "options": { "A": "Eid ul-Adha", "B": "Eid ul-Fitr", "C": "Ashura", "D": "Laylat al-Qadr" },
+    "answer": "B"
+  },
+  {
+    "question": "Who was the wife of Prophet Muhammad (PBUH) who was also known as the Mother of the Believers?",
+    "options": { "A": "Khadijah", "B": "Aisha", "C": "Fatimah", "D": "Zainab" },
+    "answer": "A"
+  },
+  {
+    "question": "Which Islamic practice involves pilgrimage to Mecca?",
+    "options": { "A": "Sawm", "B": "Hajj", "C": "Zakat", "D": "Salah" },
+    "answer": "B"
+  },
+  {
+    "question": "What is the Arabic term for the Islamic community?",
+    "options": { "A": "Ummah", "B": "Khilafah", "C": "Iman", "D": "Shura" },
+    "answer": "A"
+  },
+  {
+    "question": "Which prophet built the Kaaba with his son Ismail?",
+    "options": { "A": "Prophet Adam", "B": "Prophet Nuh", "C": "Prophet Ibrahim", "D": "Prophet Musa" },
+    "answer": "C"
+  },
+  {
+    "question": "What is the name of the night when the Qur'an was first revealed?",
+    "options": { "A": "Laylat al-Isra", "B": "Laylat al-Qadr", "C": "Eid ul-Fitr", "D": "Laylat al-Miraj" },
+    "answer": "B"
+  },
+  {
+    "question": "What is the Arabic word for God in Islam?",
+    "options": { "A": "Allah", "B": "Rab", "C": "Malik", "D": "Ilah" },
+    "answer": "A"
+  },
+  {
+    "question": "Which prophet is known for building the ark in Islam?",
+    "options": { "A": "Prophet Musa", "B": "Prophet Isa", "C": "Prophet Nuh", "D": "Prophet Yunus" },
+    "answer": "C"
+  },
+  {
+    "question": "What is the name of the angel who blows the trumpet to announce the Day of Judgment?",
+    "options": { "A": "Angel Jibril", "B": "Angel Mikail", "C": "Angel Israfil", "D": "Angel Malik" },
+    "answer": "C"
+  },
+  {
+    "question": "Which country is home to the two holiest cities in Islam?",
+    "options": { "A": "Iraq", "B": "Syria", "C": "Saudi Arabia", "D": "Turkey" },
+    "answer": "C"
+  },
+  {
+    "question": "Which battle was the first major military victory for the Muslims?",
+    "options": { "A": "Battle of Uhud", "B": "Battle of Khandaq", "C": "Battle of Badr", "D": "Battle of Hunayn" },
+    "answer": "C"
+  },
+  {
+    "question": "Which angel is responsible for bringing rain in Islam?",
+    "options": { "A": "Angel Jibril", "B": "Angel Israfil", "C": "Angel Mikail", "D": "Angel Azrael" },
+    "answer": "C"
+  },
+  {
+    "question": "Which city did Prophet Muhammad (PBUH) migrate to from Mecca?",
+    "options": { "A": "Ta'if", "B": "Jerusalem", "C": "Madinah", "D": "Baghdad" },
+    "answer": "C"
+  },
+  {
+    "question": "Which surah is the longest in the Qur'an?",
+    "options": { "A": "Surah Al-Baqarah", "B": "Surah Al-Fatiha", "C": "Surah An-Nisa", "D": "Surah Yasin" },
+    "answer": "A"
+  },
+  {
+    "question": "What is the Arabic word for fasting?",
+    "options": { "A": "Salah", "B": "Zakat", "C": "Hajj", "D": "Sawm" },
+    "answer": "D"
+  },
+  {
+    "question": "How many months are there in the Islamic calendar?",
+    "options": { "A": "10", "B": "12", "C": "11", "D": "13" },
+    "answer": "B"
+  }
+]
