@@ -1,0 +1,172 @@
+{
+  "commands": {
+    "gpt": {
+      "name": "gpt",
+      "author": "UPoL 🐔",
+      "status": "active",
+      "pasteUrl": "https://pastebin.com/raw/qBTdMr5h",
+      "id": 1
+    },
+    "imagine": {
+      "name": "imagine",
+      "author": "UPoL 🐔",
+      "status": "active",
+      "pasteUrl": "https://pastebin.com/raw/tCEz7m0g",
+      "id": 2
+    },
+    "prodia": {
+      "name": "prodia",
+      "author": "UPoL 🐔",
+      "status": "active",
+      "pasteUrl": "https://pastebin.com/raw/M1atxK7V",
+      "id": 3
+    },
+    "file": {
+      "name": "file",
+      "author": "UPoL 🐔",
+      "status": "active",
+      "pasteUrl": "https://pastebin.com/raw/Y6GNapEP",
+      "id": 4
+    },
+    "delete": {
+      "name": "d",
+      "author": "UPoL 🐔",
+      "status": "active",
+      "pasteUrl": "https://pastebin.com/raw/nDbZejus",
+      "id": 5
+    },
+    "gen": {
+      "name": "gen",
+      "author": "UPoL🐔",
+      "status": "active",
+      "pasteUrl": "https://pastebin.com/raw/Xn9r0f4Y",
+      "id": 6
+    },
+    "flux": {
+      "name": "flux.1-dev",
+      "author": "UPoL 🐔",
+      "status": "active",
+      "pasteUrl": "https://pastebin.com/raw/gwsL7PeH",
+      "id": 7
+    },
+    "emi": {
+      "name": "emi",
+      "author": "UPoL 🐔",
+      "status": " active",
+      "pasteUrl": "https://pastebin.com/raw/ky2LUvTY",
+      "id": 8
+    },
+    "sdxl": {
+      "name": "sdxl",
+      "author": "UPoL🐔",
+      "status": "active",
+      "pasteUrl": "https://pastebin.com/raw/4tGHYrCp",
+      "id": 9
+    },
+    "pencil": {
+      "name": "pencil",
+      "author": "UPoL🐔",
+      "status": "active",
+      "pasteUrl": "https://pastebin.com/raw/z8UzEUqY",
+      "id": 10
+    },
+    "slot": {
+      "name": "slot",
+      "author": "UPoL🐔",
+      "status": "active",
+      "pasteUrl": "https://pastebin.com/raw/Jtct8jB9",
+      "id": 11
+    },
+    "chat": {
+      "name": "chat",
+      "author": "UPoL🐔",
+      "status": "active",
+      "pasteUrl": "https://pastebin.com/raw/AcuS2c0K",
+      "id": 12
+    },
+    "unsend": {
+      "name": "unsend",
+      "author": "UPoL🐔",
+      "status": "active",
+      "pasteUrl": "https://pastebin.com/raw/PGBTAcLH",
+      "id": 25
+    },
+    "tid": {
+      "name": "tid",
+      "author": "UPoL🐔",
+      "status": "active",
+      "pasteUrl": "https://pastebin.com/raw/Z1EaaK3i",
+      "id": 14
+    },
+    "profile": {
+      "name": "pfp",
+      "author": "UPoL🐔",
+      "status": "active",
+      "pasteUrl": "https://pastebin.com/raw/m5AUU0Ri",
+      "id": 15
+    },
+    "getlink": {
+      "name": "getlink",
+      "author": "UPoL🐔",
+      "status": "active",
+      "pasteUrl": "https://pastebin.com/raw/ZZPaS0a3",
+      "id": 16
+    },
+    "animewar": {
+      "name": "anime war",
+      "author": "UPoL🐔",
+      "status": "active",
+      "pasteUrl": "https://pastebin.com/raw/mduDNjrh",
+      "id": 17
+    },
+    "rl": {
+      "name": "flux.1-realismLora",
+      "author": "UPoL🐔",
+      "status": "active",
+      "pasteUrl": "https://pastebin.com/raw/bL2rGMqp",
+      "id": 18
+    },
+    "fx": {
+      "name": "flux.1-schnell",
+      "author": "UPoL🐔",
+      "status": "active",
+      "pasteUrl": "https://pastebin.com/raw/aydLYcEr",
+      "id": 19
+    },
+    "get": {
+      "name": "get",
+      "author": "UPoL🐔",
+      "status": "active",
+      "pasteUrl": "https://gist.githubusercontent.com/jarif098/6d237bf5216c114f75cc1fec002f613a/raw/f93b90d48c79f2ed2183414871cc0180a4c734f1/file_492b85.mduDNjrh",
+      "id": 20
+    },
+    "imgur": {
+      "name": "imgur",
+      "author": "UPoL🐔",
+      "status": "active",
+      "pasteUrl": "https://gist.githubusercontent.com/jarif098/82a21beffeb4cc0ea33ea2e6ec96fca7/raw/7dfb47e74fbd8e4d42d952fdb4a76714fc7f007e/file_4baa30.txt",
+      "id": 21
+    },
+    "info": {
+      "name": "info/about",
+      "author": "UPoL🐔",
+      "status": "active",
+      "pasteUrl": "https://pastebin.com/raw/kBJ4Zydm",
+      "id": 22
+    },
+    "resend": {
+      "name": "resend",
+      "author": "UPoL🐔",
+      "status": "active",
+      "pasteUrl": "https://pastebin.com/raw/LS6CUQ4n",
+      "id": 23
+    },
+    "antiout": {
+      "name": "antiout",
+      "author": "UPoL🐔",
+      "status": "active",
+      "pasteUrl": "https://pastebin.com/raw/E0Rzp5it",
+      "id": 24
+    }
+  }
+}
