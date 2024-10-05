@@ -1,0 +1,167 @@
+[
+  {
+    "question": "Who was the first president of the United States?",
+    "options": { "A": "Abraham Lincoln", "B": "George Washington", "C": "John Adams", "D": "Thomas Jefferson" },
+    "answer": "B"
+  },
+  {
+    "question": "In what year did the Titanic sink?",
+    "options": { "A": "1912", "B": "1905", "C": "1920", "D": "1899" },
+    "answer": "A"
+  }.
+    {
+      "question": "Who was the first president of the United States?",
+      "options": { "A": "Abraham Lincoln", "B": "George Washington", "C": "John Adams", "D": "Thomas Jefferson" },
+      "answer": "B"
+    },
+    {
+      "question": "In what year did the Titanic sink?",
+      "options": { "A": "1912", "B": "1905", "C": "1920", "D": "1899" },
+      "answer": "A"
+    },
+    {
+      "question": "Which country was the primary adversary of the U.S. during the Cold War?",
+      "options": { "A": "China", "B": "Germany", "C": "Soviet Union", "D": "Japan" },
+      "answer": "C"
+    },
+    {
+      "question": "Who was the British Prime Minister during World War II?",
+      "options": { "A": "Winston Churchill", "B": "Neville Chamberlain", "C": "Clement Attlee", "D": "Margaret Thatcher" },
+      "answer": "A"
+    },
+    {
+      "question": "What ancient civilization built the pyramids?",
+      "options": { "A": "Romans", "B": "Egyptians", "C": "Greeks", "D": "Mayans" },
+      "answer": "B"
+    },
+    {
+      "question": "Which event started World War I?",
+      "options": { "A": "The assassination of Archduke Franz Ferdinand", "B": "Germany invading Poland", "C": "The sinking of the Lusitania", "D": "The Treaty of Versailles" },
+      "answer": "A"
+    },
+    {
+      "question": "Who was the first human to journey into outer space?",
+      "options": { "A": "Yuri Gagarin", "B": "Neil Armstrong", "C": "John Glenn", "D": "Buzz Aldrin" },
+      "answer": "A"
+    },
+    {
+      "question": "What was the name of the ship on which the Pilgrims traveled to America in 1620?",
+      "options": { "A": "Mayflower", "B": "Santa Maria", "C": "Pinta", "D": "Beagle" },
+      "answer": "A"
+    },
+    {
+      "question": "Which famous explorer discovered America in 1492?",
+      "options": { "A": "Christopher Columbus", "B": "Ferdinand Magellan", "C": "Marco Polo", "D": "Hernán Cortés" },
+      "answer": "A"
+    },
+    {
+      "question": "Which ancient empire was ruled by Julius Caesar?",
+      "options": { "A": "Egyptian", "B": "Greek", "C": "Roman", "D": "Persian" },
+      "answer": "C"
+    },
+    {
+      "question": "The Great Wall of China was primarily built to protect against which group?",
+      "options": { "A": "Japanese", "B": "Mongols", "C": "Tibetans", "D": "Koreans" },
+      "answer": "B"
+    },
+    {
+      "question": "Who was the first female Prime Minister of the United Kingdom?",
+      "options": { "A": "Margaret Thatcher", "B": "Queen Victoria", "C": "Theresa May", "D": "Elizabeth I" },
+      "answer": "A"
+    },
+    {
+      "question": "Which event marked the start of the French Revolution?",
+      "options": { "A": "Storming of the Bastille", "B": "The signing of the Magna Carta", "C": "The execution of Louis XVI", "D": "The Reign of Terror" },
+      "answer": "A"
+    },
+    {
+      "question": "Who was the first emperor of China?",
+      "options": { "A": "Qin Shi Huang", "B": "Sun Yat-sen", "C": "Kublai Khan", "D": "Mao Zedong" },
+      "answer": "A"
+    },
+    {
+      "question": "In what year did the Berlin Wall fall?",
+      "options": { "A": "1989", "B": "1975", "C": "1991", "D": "1961" },
+      "answer": "A"
+    },
+    {
+      "question": "Who was assassinated on November 22, 1963?",
+      "options": { "A": "Martin Luther King Jr.", "B": "John F. Kennedy", "C": "Abraham Lincoln", "D": "Robert F. Kennedy" },
+      "answer": "B"
+    },
+    {
+      "question": "Which battle is considered Napoleon's final defeat?",
+      "options": { "A": "Battle of Waterloo", "B": "Battle of Leipzig", "C": "Battle of Trafalgar", "D": "Battle of Austerlitz" },
+      "answer": "A"
+    },
+    {
+      "question": "What year did World War II begin?",
+      "options": { "A": "1939", "B": "1914", "C": "1941", "D": "1945" },
+      "answer": "A"
+    },
+    {
+      "question": "Who was the first man to set foot on the moon?",
+      "options": { "A": "Buzz Aldrin", "B": "John Glenn", "C": "Neil Armstrong", "D": "Yuri Gagarin" },
+      "answer": "C"
+    },
+    {
+      "question": "Who was the leader of the Soviet Union during World War II?",
+      "options": { "A": "Vladimir Lenin", "B": "Nikita Khrushchev", "C": "Joseph Stalin", "D": "Leonid Brezhnev" },
+      "answer": "C"
+    },
+    {
+      "question": "In which city was the Declaration of Independence signed?",
+      "options": { "A": "Philadelphia", "B": "Boston", "C": "New York", "D": "Washington, D.C." },
+      "answer": "A"
+    },
+    {
+      "question": "Who was the first emperor of the Roman Empire?",
+      "options": { "A": "Julius Caesar", "B": "Augustus", "C": "Nero", "D": "Tiberius" },
+      "answer": "B"
+    },
+    {
+      "question": "What year did the United States declare its independence?",
+      "options": { "A": "1776", "B": "1789", "C": "1812", "D": "1865" },
+      "answer": "A"
+    },
+    {
+      "question": "Who was the longest reigning British monarch before Queen Elizabeth II?",
+      "options": { "A": "Victoria", "B": "Henry VIII", "C": "George III", "D": "Edward VII" },
+      "answer": "A"
+    },
+    {
+      "question": "Which of these men was a founding father of the United States?",
+      "options": { "A": "Benjamin Franklin", "B": "Woodrow Wilson", "C": "Theodore Roosevelt", "D": "Andrew Jackson" },
+      "answer": "A"
+    },
+    {
+      "question": "What was the name of the ship that Charles Darwin sailed on?",
+      "options": { "A": "HMS Beagle", "B": "HMS Victory", "C": "USS Constitution", "D": "Santa Maria" },
+      "answer": "A"
+    },
+    {
+      "question": "What was the first successful English colony in North America?",
+      "options": { "A": "Jamestown", "B": "Plymouth", "C": "Roanoke", "D": "St. Augustine" },
+      "answer": "A"
+    },
+    {
+      "question": "Who led the Indian independence movement against British rule?",
+      "options": { "A": "Mahatma Gandhi", "B": "Jawaharlal Nehru", "C": "Subhas Chandra Bose", "D": "Bhagat Singh" },
+      "answer": "A"
+    },
+    {
+      "question": "In which country did the Renaissance begin?",
+      "options": { "A": "Italy", "B": "France", "C": "Germany", "D": "England" },
+      "answer": "A"
+    },
+    {
+      "question": "Who was known as the 'Iron Lady'?",
+      "options": { "A": "Margaret Thatcher", "B": "Queen Elizabeth I", "C": "Indira Gandhi", "D": "Angela Merkel" },
+      "answer": "A"
+    },
+    {
+      "question": "Which event started the American Civil War?",
+      "options": { "A": "The firing on Fort Sumter", "B": "The Gettysburg Address", "C": "The Emancipation Proclamation", "D": "The Battle of Bull Run" },
+      "answer": "A"
+    }
+]
