@@ -1,0 +1,282 @@
+[ {
+  "question": "What is the chemical symbol for water?",
+  "options": {
+    "A": "H",
+    "B": "O",
+    "C": "H2O",
+    "D": "HO"
+  },
+  "answer": "C"
+},
+  {
+ "question": "What is the capital of France?",
+ "options": {
+ "A": "London",
+ "B": "Paris",
+ "C": "Berlin",
+ "D": "Madrid"
+ },
+ "answer": "B"
+ },
+  {
+   "question": "What is the capital of France?",
+   "options": {
+   "A": "Paris",
+   "B": "Rome",
+   "C": "Berlin",
+   "D": "Madrid"
+   },
+   "answer": "A"
+   },
+ {
+   "question": "Who painted the Mona Lisa?",
+   "options": {
+   "A": "Vincent van Gogh",
+   "B": "Leonardo da Vinci",
+   "C": "Pablo Picasso",
+   "D": "Michelangelo"
+   },
+   "answer": "B"
+   },
+  {
+   "question": "What is the largest planet in our solar system?",
+   "options": {
+   "A": "Earth",
+   "B": "Saturn",
+   "C": "Jupiter",
+   "D": "Mars"
+   },
+   "answer": "C"
+   },
+ {
+   "question": "Which country is known as the Land of the Rising Sun?",
+   "options": {
+   "A": "China",
+   "B": "Russia",
+   "C": "Japan",
+   "D": "India"
+   },
+   "answer": "C"
+   },
+  {
+   "question": "Who wrote Romeo and Juliet?",
+   "options": {
+   "A": "William Shakespeare",
+   "B": "Jane Austen",
+   "C": "Charles Dickens",
+   "D": "Mark Twain"
+   },
+   "answer": "A"
+   },
+  {
+   "question": "What is the capital of Australia?",
+   "options": {
+   "A": "Sydney",
+   "B": "Canberra",
+   "C": "Melbourne",
+   "D": "Brisbane"
+   },
+   "answer": "B"
+   },
+  {
+   "question": "How many colors are there in a rainbow?",
+   "options": {
+   "A": "5",
+   "B": "6",
+   "C": "7",
+   "D": "8"
+   },
+   "answer": "C"
+   },
+   {
+   "question": "Who is the president of the United States?",
+   "options": {
+   "A": "Joe Biden",
+   "B": "Donald Trump",
+   "C": "Barack Obama",
+   "D": "George Washington"
+   },
+   "answer": "A"
+   },
+  {
+   "question": "What is the tallest mountain in the world?",
+   "options": {
+   "A": "Mount Kilimanjaro",
+   "B": "Mount Everest",
+   "C": "Mount Fuji",
+   "D": "Mount Rushmore"
+   },
+   "answer": "B"
+   },
+  {
+   "question": "What is the currency of Japan?",
+   "options": { "A": "Yuan", "B": "Euro", "C": "Pound", "D": "Yen"
+   },
+   "answer": "D"
+   },
+    {
+      "question": "What is the capital of France?",
+      "options": { "A": "Paris", "B": "London", "C": "Rome", "D": "Berlin" },
+      "answer": "A"
+    },
+    {
+      "question": "Who wrote 'To Kill a Mockingbird'?",
+      "options": { "A": "Harper Lee", "B": "Mark Twain", "C": "F. Scott Fitzgerald", "D": "Ernest Hemingway" },
+      "answer": "A"
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "options": { "A": "Au", "B": "Ag", "C": "Pb", "D": "Fe" },
+      "answer": "A"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "options": { "A": "Mars", "B": "Venus", "C": "Jupiter", "D": "Saturn" },
+      "answer": "A"
+    },
+    {
+      "question": "In which year did the Titanic sink?",
+      "options": { "A": "1912", "B": "1905", "C": "1920", "D": "1899" },
+      "answer": "A"
+    },
+    {
+      "question": "What is the largest mammal in the world?",
+      "options": { "A": "Elephant", "B": "Blue Whale", "C": "Giraffe", "D": "Shark" },
+      "answer": "B"
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "options": { "A": "Leonardo da Vinci", "B": "Vincent van Gogh", "C": "Pablo Picasso", "D": "Claude Monet" },
+      "answer": "A"
+    },
+    {
+      "question": "What is the hardest natural substance on Earth?",
+      "options": { "A": "Gold", "B": "Diamond", "C": "Platinum", "D": "Iron" },
+      "answer": "B"
+    },
+    {
+      "question": "Which element has the atomic number 1?",
+      "options": { "A": "Hydrogen", "B": "Helium", "C": "Oxygen", "D": "Carbon" },
+      "answer": "A"
+    },
+    {
+      "question": "Who is the author of the Harry Potter series?",
+      "options": { "A": "J.K. Rowling", "B": "J.R.R. Tolkien", "C": "C.S. Lewis", "D": "George R.R. Martin" },
+      "answer": "A"
+    },
+    {
+      "question": "Which ocean is the largest in the world?",
+      "options": { "A": "Atlantic Ocean", "B": "Indian Ocean", "C": "Arctic Ocean", "D": "Pacific Ocean" },
+      "answer": "D"
+    },
+    {
+      "question": "What is the square root of 64?",
+      "options": { "A": "6", "B": "7", "C": "8", "D": "9" },
+      "answer": "C"
+    },
+    {
+      "question": "What is the smallest unit of life that can replicate independently?",
+      "options": { "A": "Cell", "B": "Atom", "C": "Molecule", "D": "Organ" },
+      "answer": "A"
+    },
+    {
+      "question": "Which planet is closest to the Sun?",
+      "options": { "A": "Mercury", "B": "Venus", "C": "Earth", "D": "Mars" },
+      "answer": "A"
+    },
+    {
+      "question": "What is the main ingredient in guacamole?",
+      "options": { "A": "Tomato", "B": "Avocado", "C": "Pepper", "D": "Onion" },
+      "answer": "B"
+    },
+    {
+      "question": "What is the boiling point of water in Celsius?",
+      "options": { "A": "100°C", "B": "90°C", "C": "80°C", "D": "110°C" },
+      "answer": "A"
+    },
+    {
+      "question": "Which famous scientist developed the theory of relativity?",
+      "options": { "A": "Isaac Newton", "B": "Galileo Galilei", "C": "Albert Einstein", "D": "Nikola Tesla" },
+      "answer": "C"
+    },
+    {
+      "question": "In what type of galaxy is the Earth located?",
+      "options": { "A": "Elliptical Galaxy", "B": "Spiral Galaxy", "C": "Irregular Galaxy", "D": "Lenticular Galaxy" },
+      "answer": "B"
+    },
+    {
+      "question": "Who is considered the father of modern physics?",
+      "options": { "A": "James Clerk Maxwell", "B": "Niels Bohr", "C": "Albert Einstein", "D": "Michael Faraday" },
+      "answer": "C"
+    },
+    {
+      "question": "What is the capital city of Japan?",
+      "options": { "A": "Seoul", "B": "Tokyo", "C": "Beijing", "D": "Kyoto" },
+      "answer": "B"
+    },
+    {
+      "question": "Which organ in the human body is responsible for pumping blood?",
+      "options": { "A": "Lungs", "B": "Liver", "C": "Heart", "D": "Kidneys" },
+      "answer": "C"
+    },
+    {
+      "question": "Who wrote 'Pride and Prejudice'?",
+      "options": { "A": "Jane Austen", "B": "Charlotte Brontë", "C": "Emily Dickinson", "D": "Mary Shelley" },
+      "answer": "A"
+    },
+    {
+      "question": "Which gas do plants primarily use for photosynthesis?",
+      "options": { "A": "Oxygen", "B": "Carbon Dioxide", "C": "Nitrogen", "D": "Hydrogen" },
+      "answer": "B"
+    },
+    {
+      "question": "What is the chemical formula for water?",
+      "options": { "A": "H2O", "B": "CO2", "C": "O2", "D": "H2SO4" },
+      "answer": "A"
+    },
+    {
+      "question": "Which famous artist is known for the 'Starry Night' painting?",
+      "options": { "A": "Vincent van Gogh", "B": "Claude Monet", "C": "Pablo Picasso", "D": "Leonardo da Vinci" },
+      "answer": "A"
+    },
+    {
+      "question": "What is the capital of Australia?",
+      "options": { "A": "Sydney", "B": "Melbourne", "C": "Canberra", "D": "Brisbane" },
+      "answer": "C"
+    },
+    {
+      "question": "Which famous physicist is known for his laws of motion?",
+      "options": { "A": "Galileo Galilei", "B": "Isaac Newton", "C": "Albert Einstein", "D": "Niels Bohr" },
+      "answer": "B"
+    },
+    {
+      "question": "What is the hardest natural mineral on Earth?",
+      "options": { "A": "Gold", "B": "Diamond", "C": "Platinum", "D": "Emerald" },
+      "answer": "B"
+    },
+    {
+      "question": "In which continent is the Sahara Desert located?",
+      "options": { "A": "Asia", "B": "Africa", "C": "Australia", "D": "North America" },
+      "answer": "B"
+    },
+    {
+      "question": "Who discovered penicillin?",
+      "options": { "A": "Alexander Fleming", "B": "Louis Pasteur", "C": "Marie Curie", "D": "James Watson" },
+      "answer": "A"
+    },
+    {
+      "question": "What is the largest organ in the human body?",
+      "options": { "A": "Liver", "B": "Heart", "C": "Skin", "D": "Lungs" },
+      "answer": "C"
+    },
+    {
+      "question": "What is the primary ingredient in traditional Japanese sushi?",
+      "options": { "A": "Chicken", "B": "Beef", "C": "Fish", "D": "Pork" },
+      "answer": "C"
+    },
+    {
+      "question": "Which planet is known as the 'Giant Red Spot'?",
+      "options": { "A": "Mars", "B": "Saturn", "C": "Jupiter", "D": "Uranus" },
+      "answer": "C"
+    }
+]
