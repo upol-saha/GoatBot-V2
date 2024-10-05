@@ -1,0 +1,162 @@
+[
+  {
+    "question": "What is the chemical symbol for water?",
+    "options": { "A": "O2", "B": "H2O", "C": "CO2", "D": "HO" },
+    "answer": "B"
+  },
+  {
+    "question": "Which element has the atomic number 1?",
+    "options": { "A": "Helium", "B": "Oxygen", "C": "Hydrogen", "D": "Carbon" },
+    "answer": "C"
+  },
+  {
+    "question": "What is the most abundant gas in Earth's atmosphere?",
+    "options": { "A": "Oxygen", "B": "Carbon Dioxide", "C": "Nitrogen", "D": "Helium" },
+    "answer": "C"
+  },
+  {
+    "question": "What is the pH value of a neutral substance?",
+    "options": { "A": "1", "B": "7", "C": "14", "D": "0" },
+    "answer": "B"
+  },
+  {
+    "question": "Which element is known as the 'king of chemicals'?",
+    "options": { "A": "Sulfuric acid", "B": "Sodium", "C": "Gold", "D": "Oxygen" },
+    "answer": "A"
+  },
+  {
+    "question": "What is the chemical formula for table salt?",
+    "options": { "A": "NaCl", "B": "HCl", "C": "KCl", "D": "NaOH" },
+    "answer": "A"
+  },
+  {
+    "question": "Which scientist is credited with creating the Periodic Table?",
+    "options": { "A": "Isaac Newton", "B": "Dmitri Mendeleev", "C": "Marie Curie", "D": "Albert Einstein" },
+    "answer": "B"
+  },
+  {
+    "question": "What type of bond involves the sharing of electron pairs between atoms?",
+    "options": { "A": "Ionic bond", "B": "Covalent bond", "C": "Hydrogen bond", "D": "Metallic bond" },
+    "answer": "B"
+  },
+  {
+    "question": "What is the name of the process by which plants make their food using sunlight?",
+    "options": { "A": "Respiration", "B": "Digestion", "C": "Photosynthesis", "D": "Fermentation" },
+    "answer": "C"
+  },
+  {
+    "question": "Which element is used in pencil lead?",
+    "options": { "A": "Graphite", "B": "Lead", "C": "Carbon", "D": "Zinc" },
+    "answer": "A"
+  },
+  {
+    "question": "What is the chemical formula for carbon dioxide?",
+    "options": { "A": "CO", "B": "CO2", "C": "H2CO3", "D": "C2O" },
+    "answer": "B"
+  },
+  {
+    "question": "Which gas is produced by the combustion of hydrocarbons?",
+    "options": { "A": "Oxygen", "B": "Carbon dioxide", "C": "Nitrogen", "D": "Hydrogen" },
+    "answer": "B"
+  },
+  {
+    "question": "What is the lightest element in the periodic table?",
+    "options": { "A": "Helium", "B": "Hydrogen", "C": "Lithium", "D": "Carbon" },
+    "answer": "B"
+  },
+  {
+    "question": "Which element has the chemical symbol 'Fe'?",
+    "options": { "A": "Fluorine", "B": "Iron", "C": "Francium", "D": "Fermium" },
+    "answer": "B"
+  },
+  {
+    "question": "Which particle has a negative charge?",
+    "options": { "A": "Proton", "B": "Neutron", "C": "Electron", "D": "Nucleus" },
+    "answer": "C"
+  },
+  {
+    "question": "What is the main component of natural gas?",
+    "options": { "A": "Methane", "B": "Propane", "C": "Ethane", "D": "Butane" },
+    "answer": "A"
+  },
+  {
+    "question": "What is the common name for solid carbon dioxide?",
+    "options": { "A": "Dry ice", "B": "Limestone", "C": "Chalk", "D": "Graphite" },
+    "answer": "A"
+  },
+  {
+    "question": "Which element is a liquid at room temperature?",
+    "options": { "A": "Mercury", "B": "Gold", "C": "Silver", "D": "Copper" },
+    "answer": "A"
+  },
+  {
+    "question": "Which law states that the volume of a gas is inversely proportional to its pressure at constant temperature?",
+    "options": { "A": "Boyle's Law", "B": "Charles's Law", "C": "Avogadro's Law", "D": "Dalton's Law" },
+    "answer": "A"
+  },
+  {
+    "question": "What is the chemical formula for ammonia?",
+    "options": { "A": "NH3", "B": "HNO3", "C": "NO2", "D": "N2H4" },
+    "answer": "A"
+  },
+  {
+    "question": "Which element is used in the production of nuclear energy?",
+    "options": { "A": "Uranium", "B": "Plutonium", "C": "Thorium", "D": "Radon" },
+    "answer": "A"
+  },
+  {
+    "question": "What is the name of the acid found in the human stomach?",
+    "options": { "A": "Sulfuric acid", "B": "Hydrochloric acid", "C": "Nitric acid", "D": "Acetic acid" },
+    "answer": "B"
+  },
+  {
+    "question": "What is the primary gas responsible for the greenhouse effect?",
+    "options": { "A": "Oxygen", "B": "Nitrogen", "C": "Carbon dioxide", "D": "Methane" },
+    "answer": "C"
+  },
+  {
+    "question": "What is the common name for sodium bicarbonate?",
+    "options": { "A": "Baking soda", "B": "Table salt", "C": "Vinegar", "D": "Bleach" },
+    "answer": "A"
+  },
+  {
+    "question": "Which substance is known as the universal solvent?",
+    "options": { "A": "Water", "B": "Alcohol", "C": "Acetone", "D": "Ammonia" },
+    "answer": "A"
+  },
+  {
+    "question": "Which gas is commonly used in balloons and airships because it is lighter than air?",
+    "options": { "A": "Helium", "B": "Oxygen", "C": "Hydrogen", "D": "Nitrogen" },
+    "answer": "A"
+  },
+  {
+    "question": "What is the atomic number of carbon?",
+    "options": { "A": "12", "B": "14", "C": "6", "D": "8" },
+    "answer": "C"
+  },
+  {
+    "question": "What is the process of a liquid changing into a gas called?",
+    "options": { "A": "Condensation", "B": "Sublimation", "C": "Evaporation", "D": "Deposition" },
+    "answer": "C"
+  },
+  {
+    "question": "What is the main component of the Earth's core?",
+    "options": { "A": "Nickel", "B": "Silicon", "C": "Iron", "D": "Aluminum" },
+    "answer": "C"
+  },
+  {
+    "question": "Which scientist is known for discovering the electron?",
+    "options": { "A": "Isaac Newton", "B": "J.J. Thomson", "C": "Ernest Rutherford", "D": "Niels Bohr" },
+    "answer": "B"
+  },
+  {
+    "question": "What is the chemical formula for sulfuric acid?",
+    "options": { "A": "H2SO4", "B": "HNO3", "C": "HCl", "D": "H2O2" },
+    "answer": "A"
+  },
+  {
+    "question": "What type of reaction involves the exchange of electrons between two species?",
+    "options": { "A": "Redox reaction", "B": "Decomposition", "C": "Precipitation", "D": "Neutralization" },
+    "answer": "A"
+  }
+]
