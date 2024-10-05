@@ -1,0 +1,177 @@
+[
+  {
+    "question": "What is the chemical symbol for water?",
+    "options": { "A": "H2O", "B": "O2", "C": "CO2", "D": "NaCl" },
+    "answer": "A"
+  },
+  {
+    "question": "What planet is known as the Red Planet?",
+    "options": { "A": "Venus", "B": "Mars", "C": "Jupiter", "D": "Saturn" },
+    "answer": "B"
+  }.
+    {
+      "question": "What is the chemical symbol for water?",
+      "options": { "A": "O2", "B": "CO2", "C": "H2O", "D": "NaCl" },
+      "answer": "C"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "options": { "A": "Venus", "B": "Saturn", "C": "Jupiter", "D": "Mars" },
+      "answer": "D"
+    },
+    {
+      "question": "What is the largest organ in the human body?",
+      "options": { "A": "Heart", "B": "Liver", "C": "Skin", "D": "Lungs" },
+      "answer": "C"
+    },
+    {
+      "question": "What is the process by which plants make their own food?",
+      "options": { "A": "Photosynthesis", "B": "Respiration", "C": "Digestion", "D": "Fermentation" },
+      "answer": "A"
+    },
+    {
+      "question": "Which gas do plants absorb from the atmosphere?",
+      "options": { "A": "Oxygen", "B": "Nitrogen", "C": "Carbon dioxide", "D": "Hydrogen" },
+      "answer": "C"
+    },
+    {
+      "question": "What is the speed of light?",
+      "options": { "A": "300,000 km/s", "B": "150,000 km/s", "C": "1,000 km/s", "D": "500,000 km/s" },
+      "answer": "A"
+    },
+    {
+      "question": "What is the powerhouse of the cell?",
+      "options": { "A": "Nucleus", "B": "Ribosome", "C": "Mitochondria", "D": "Chloroplast" },
+      "answer": "C"
+    },
+    {
+      "question": "What is the atomic number of carbon?",
+      "options": { "A": "6", "B": "12", "C": "14", "D": "8" },
+      "answer": "A"
+    },
+    {
+      "question": "Which element is necessary for the process of photosynthesis?",
+      "options": { "A": "Nitrogen", "B": "Oxygen", "C": "Carbon", "D": "Chlorophyll" },
+      "answer": "D"
+    },
+    {
+      "question": "How many bones are there in the adult human body?",
+      "options": { "A": "206", "B": "208", "C": "201", "D": "202" },
+      "answer": "A"
+    },
+    {
+      "question": "What is the center of an atom called?",
+      "options": { "A": "Electron", "B": "Proton", "C": "Nucleus", "D": "Neutron" },
+      "answer": "C"
+    },
+    {
+      "question": "What is the boiling point of water at sea level?",
+      "options": { "A": "50°C", "B": "75°C", "C": "100°C", "D": "150°C" },
+      "answer": "C"
+    },
+    {
+      "question": "What type of organism is yeast?",
+      "options": { "A": "Bacteria", "B": "Fungi", "C": "Plant", "D": "Animal" },
+      "answer": "B"
+    },
+    {
+      "question": "Which part of the brain controls balance and coordination?",
+      "options": { "A": "Cerebrum", "B": "Cerebellum", "C": "Medulla", "D": "Brainstem" },
+      "answer": "B"
+    },
+    {
+      "question": "What is the most abundant gas in Earth's atmosphere?",
+      "options": { "A": "Oxygen", "B": "Hydrogen", "C": "Nitrogen", "D": "Carbon dioxide" },
+      "answer": "C"
+    },
+    {
+      "question": "What is the hardest natural substance on Earth?",
+      "options": { "A": "Gold", "B": "Diamond", "C": "Iron", "D": "Quartz" },
+      "answer": "B"
+    },
+    {
+      "question": "Which planet is the largest in the solar system?",
+      "options": { "A": "Earth", "B": "Mars", "C": "Jupiter", "D": "Saturn" },
+      "answer": "C"
+    },
+    {
+      "question": "What is the most common blood type in humans?",
+      "options": { "A": "A", "B": "B", "C": "O", "D": "AB" },
+      "answer": "C"
+    },
+    {
+      "question": "How many chromosomes are in a human cell?",
+      "options": { "A": "23", "B": "46", "C": "48", "D": "52" },
+      "answer": "B"
+    },
+    {
+      "question": "What is the force that keeps planets in orbit around the sun?",
+      "options": { "A": "Magnetism", "B": "Electricity", "C": "Gravity", "D": "Friction" },
+      "answer": "C"
+    },
+    {
+      "question": "Which vitamin is produced when a person is exposed to sunlight?",
+      "options": { "A": "Vitamin A", "B": "Vitamin B", "C": "Vitamin C", "D": "Vitamin D" },
+      "answer": "D"
+    },
+    {
+      "question": "What is the main gas found in the air we breathe?",
+      "options": { "A": "Oxygen", "B": "Carbon dioxide", "C": "Nitrogen", "D": "Hydrogen" },
+      "answer": "C"
+    },
+    {
+      "question": "What is the smallest unit of matter?",
+      "options": { "A": "Molecule", "B": "Atom", "C": "Cell", "D": "Electron" },
+      "answer": "B"
+    },
+    {
+      "question": "Which organ in the human body is primarily responsible for detoxifying chemicals?",
+      "options": { "A": "Kidney", "B": "Liver", "C": "Heart", "D": "Lungs" },
+      "answer": "B"
+    },
+    {
+      "question": "Which of these elements is a metal?",
+      "options": { "A": "Helium", "B": "Oxygen", "C": "Iron", "D": "Nitrogen" },
+      "answer": "C"
+    },
+    {
+      "question": "Which of the following is an example of a renewable resource?",
+      "options": { "A": "Coal", "B": "Oil", "C": "Solar energy", "D": "Natural gas" },
+      "answer": "C"
+    },
+    {
+      "question": "What is the primary gas that contributes to the greenhouse effect?",
+      "options": { "A": "Oxygen", "B": "Nitrogen", "C": "Carbon dioxide", "D": "Hydrogen" },
+      "answer": "C"
+    },
+    {
+      "question": "Which part of the human body is responsible for pumping blood?",
+      "options": { "A": "Lungs", "B": "Brain", "C": "Heart", "D": "Kidneys" },
+      "answer": "C"
+    },
+    {
+      "question": "Which planet is closest to the Sun?",
+      "options": { "A": "Venus", "B": "Mercury", "C": "Earth", "D": "Mars" },
+      "answer": "B"
+    },
+    {
+      "question": "What is the most basic unit of heredity?",
+      "options": { "A": "Gene", "B": "Cell", "C": "Chromosome", "D": "Nucleus" },
+      "answer": "A"
+    },
+    {
+      "question": "Which type of rock is formed by volcanic activity?",
+      "options": { "A": "Sedimentary", "B": "Metamorphic", "C": "Igneous", "D": "Limestone" },
+      "answer": "C"
+    },
+    {
+      "question": "Which organ system is responsible for fighting infections?",
+      "options": { "A": "Digestive system", "B": "Nervous system", "C": "Immune system", "D": "Respiratory system" },
+      "answer": "C"
+    },
+    {
+      "question": "What do you call the process by which a liquid turns into a gas?",
+      "options": { "A": "Condensation", "B": "Evaporation", "C": "Sublimation", "D": "Freezing" },
+      "answer": "B"
+    }
+]
