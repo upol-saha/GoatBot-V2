@@ -1,0 +1,157 @@
+[
+  {
+    "question": "Who is known as the 'King of Pop'?",
+    "options": { "A": "Elvis Presley", "B": "Michael Jackson", "C": "Prince", "D": "Freddie Mercury" },
+    "answer": "B"
+  },
+  {
+    "question": "Which instrument has 88 keys?",
+    "options": { "A": "Guitar", "B": "Piano", "C": "Violin", "D": "Drums" },
+    "answer": "B"
+  },
+  {
+    "question": "Which band released the song 'Hey Jude'?",
+    "options": { "A": "The Rolling Stones", "B": "The Beatles", "C": "Queen", "D": "Pink Floyd" },
+    "answer": "B"
+  },
+  {
+    "question": "Who composed the famous classical piece 'Für Elise'?",
+    "options": { "A": "Wolfgang Amadeus Mozart", "B": "Johann Sebastian Bach", "C": "Ludwig van Beethoven", "D": "Franz Schubert" },
+    "answer": "C"
+  },
+  {
+    "question": "What is the highest male singing voice?",
+    "options": { "A": "Baritone", "B": "Tenor", "C": "Bass", "D": "Countertenor" },
+    "answer": "D"
+  },
+  {
+    "question": "Which pop star is known for hits like 'Bad Romance' and 'Poker Face'?",
+    "options": { "A": "Madonna", "B": "Lady Gaga", "C": "Beyoncé", "D": "Rihanna" },
+    "answer": "B"
+  },
+  {
+    "question": "What is the traditional four-stringed instrument from Hawaii?",
+    "options": { "A": "Guitar", "B": "Banjo", "C": "Ukulele", "D": "Mandolin" },
+    "answer": "C"
+  },
+  {
+    "question": "Which band was Freddie Mercury the lead singer of?",
+    "options": { "A": "Queen", "B": "The Beatles", "C": "The Rolling Stones", "D": "Led Zeppelin" },
+    "answer": "A"
+  },
+  {
+    "question": "Who is the lead vocalist of the band U2?",
+    "options": { "A": "Bono", "B": "Mick Jagger", "C": "Paul McCartney", "D": "Bruce Springsteen" },
+    "answer": "A"
+  },
+  {
+    "question": "Which composer is known for his symphony 'The New World'?",
+    "options": { "A": "Franz Liszt", "B": "Antonín Dvořák", "C": "Gustav Mahler", "D": "Johannes Brahms" },
+    "answer": "B"
+  },
+  {
+    "question": "Which artist is known for the hit single 'Shape of You'?",
+    "options": { "A": "Ed Sheeran", "B": "Bruno Mars", "C": "Justin Bieber", "D": "Shawn Mendes" },
+    "answer": "A"
+  },
+  {
+    "question": "Which instrument is primarily associated with jazz music?",
+    "options": { "A": "Piano", "B": "Saxophone", "C": "Violin", "D": "Trumpet" },
+    "answer": "B"
+  },
+  {
+    "question": "What is the musical term for the speed of a piece?",
+    "options": { "A": "Tempo", "B": "Pitch", "C": "Dynamics", "D": "Harmony" },
+    "answer": "A"
+  },
+  {
+    "question": "What is the highest female singing voice?",
+    "options": { "A": "Mezzo-soprano", "B": "Alto", "C": "Soprano", "D": "Contralto" },
+    "answer": "C"
+  },
+  {
+    "question": "Which famous composer became deaf later in his life?",
+    "options": { "A": "Ludwig van Beethoven", "B": "Johann Sebastian Bach", "C": "Wolfgang Amadeus Mozart", "D": "Frédéric Chopin" },
+    "answer": "A"
+  },
+  {
+    "question": "Which singer had a hit with 'Rolling in the Deep'?",
+    "options": { "A": "Taylor Swift", "B": "Beyoncé", "C": "Adele", "D": "Katy Perry" },
+    "answer": "C"
+  },
+  {
+    "question": "In music notation, what does 'forte' mean?",
+    "options": { "A": "Softly", "B": "Slowly", "C": "Loudly", "D": "Smoothly" },
+    "answer": "C"
+  },
+  {
+    "question": "Which country is the band ABBA from?",
+    "options": { "A": "United States", "B": "Sweden", "C": "Germany", "D": "United Kingdom" },
+    "answer": "B"
+  },
+  {
+    "question": "Who was the lead singer of Nirvana?",
+    "options": { "A": "Dave Grohl", "B": "Kurt Cobain", "C": "Eddie Vedder", "D": "Chris Cornell" },
+    "answer": "B"
+  },
+  {
+    "question": "Which instrument is part of the string family?",
+    "options": { "A": "Clarinet", "B": "Trumpet", "C": "Violin", "D": "Trombone" },
+    "answer": "C"
+  },
+  {
+    "question": "Which classical composer wrote 'The Four Seasons'?",
+    "options": { "A": "Antonio Vivaldi", "B": "Johann Sebastian Bach", "C": "Wolfgang Amadeus Mozart", "D": "Ludwig van Beethoven" },
+    "answer": "A"
+  },
+  {
+    "question": "Which famous singer's real name is Stefani Joanne Angelina Germanotta?",
+    "options": { "A": "Lady Gaga", "B": "Madonna", "C": "Katy Perry", "D": "Ariana Grande" },
+    "answer": "A"
+  },
+  {
+    "question": "What is the interval between two musical notes that have the same letter name, but one is higher or lower in pitch?",
+    "options": { "A": "Chord", "B": "Harmony", "C": "Octave", "D": "Scale" },
+    "answer": "C"
+  },
+  {
+    "question": "Who is known as the 'Queen of Pop'?",
+    "options": { "A": "Madonna", "B": "Beyoncé", "C": "Lady Gaga", "D": "Rihanna" },
+    "answer": "A"
+  },
+  {
+    "question": "Which famous composer wrote 'The Magic Flute'?",
+    "options": { "A": "Ludwig van Beethoven", "B": "Johann Sebastian Bach", "C": "Franz Schubert", "D": "Wolfgang Amadeus Mozart" },
+    "answer": "D"
+  },
+  {
+    "question": "Which artist released the album 'Thriller', the best-selling album of all time?",
+    "options": { "A": "Prince", "B": "Michael Jackson", "C": "Elton John", "D": "Whitney Houston" },
+    "answer": "B"
+  },
+  {
+    "question": "In music, how many beats does a quarter note get in 4/4 time?",
+    "options": { "A": "1 beat", "B": "2 beats", "C": "3 beats", "D": "4 beats" },
+    "answer": "A"
+  },
+  {
+    "question": "Which band is known for hits like 'Bohemian Rhapsody' and 'We Will Rock You'?",
+    "options": { "A": "The Beatles", "B": "Led Zeppelin", "C": "Queen", "D": "The Rolling Stones" },
+    "answer": "C"
+  },
+  {
+    "question": "Which musical term refers to gradually getting louder?",
+    "options": { "A": "Crescendo", "B": "Decrescendo", "C": "Staccato", "D": "Legato" },
+    "answer": "A"
+  },
+  {
+    "question": "Which singer is known as the 'Material Girl'?",
+    "options": { "A": "Madonna", "B": "Lady Gaga", "C": "Britney Spears", "D": "Ariana Grande" },
+    "answer": "A"
+  },
+  {
+    "question": "Which group performed the song 'Hotel California'?",
+    "options": { "A": "The Eagles", "B": "Fleetwood Mac", "C": "The Rolling Stones", "D": "Pink Floyd" },
+    "answer": "A"
+  }
+]
