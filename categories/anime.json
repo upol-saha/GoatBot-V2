@@ -1,0 +1,161 @@
+[
+  {
+    "question": "Who is the main character in 'Naruto'?",
+    "options": { "A": "Naruto Uzumaki", "B": "Sasuke Uchiha", "C": "Sakura Haruno", "D": "Kakashi Hatake" },
+    "answer": "A"
+  },
+  {
+    "question": "What anime features the character Monkey D. Luffy?",
+    "options": { "A": "One Piece", "B": "Bleach", "C": "Attack on Titan", "D": "My Hero Academia" },
+    "answer": "A"
+  },
+    {
+      "question": "What is the name of the Death Note's Shinigami?",
+      "options": { "A": "Ryuk", "B": "Light", "C": "L", "D": "Rem" },
+      "answer": "A"
+    },
+    {
+      "question": "Who is the main character in 'Attack on Titan'?",
+      "options": { "A": "Eren Yeager", "B": "Mikasa Ackerman", "C": "Armin Arlert", "D": "Levi Ackerman" },
+      "answer": "A"
+    },
+    {
+      "question": "In 'Dragon Ball Z', who is Goku's brother?",
+      "options": { "A": "Vegeta", "B": "Nappa", "C": "Raditz", "D": "Frieza" },
+      "answer": "C"
+    },
+    {
+      "question": "Which anime features the character Edward Elric?",
+      "options": { "A": "Fullmetal Alchemist", "B": "Fairy Tail", "C": "Sword Art Online", "D": "Blue Exorcist" },
+      "answer": "A"
+    },
+    {
+      "question": "In 'My Hero Academia', who is the mentor of Izuku Midoriya?",
+      "options": { "A": "All Might", "B": "Endeavor", "C": "Aizawa", "D": "Gran Torino" },
+      "answer": "A"
+    },
+    {
+      "question": "What is the name of the demon inside Naruto?",
+      "options": { "A": "Kurama", "B": "Shukaku", "C": "Matatabi", "D": "Gyuki" },
+      "answer": "A"
+    },
+    {
+      "question": "Who is the captain of the Straw Hat Pirates in 'One Piece'?",
+      "options": { "A": "Zoro", "B": "Sanji", "C": "Nami", "D": "Monkey D. Luffy" },
+      "answer": "D"
+    },
+    {
+      "question": "Which anime is set in the fictional world of Soul Society?",
+      "options": { "A": "Bleach", "B": "Naruto", "C": "Tokyo Ghoul", "D": "Attack on Titan" },
+      "answer": "A"
+    },
+    {
+      "question": "What is the name of the alchemy system in 'Fullmetal Alchemist'?",
+      "options": { "A": "Equivalent Exchange", "B": "Alchemy Circle", "C": "Philosopher's Stone", "D": "Gate of Truth" },
+      "answer": "A"
+    },
+    {
+      "question": "Who is the main character in 'Sword Art Online'?",
+      "options": { "A": "Kirito", "B": "Asuna", "C": "Sinon", "D": "Leafa" },
+      "answer": "A"
+    },
+    {
+      "question": "What is the name of the titan that Eren Yeager transforms into?",
+      "options": { "A": "Attack Titan", "B": "Colossal Titan", "C": "Armored Titan", "D": "Female Titan" },
+      "answer": "A"
+    },
+    {
+      "question": "In 'Hunter x Hunter', who is Gon’s best friend?",
+      "options": { "A": "Killua", "B": "Leorio", "C": "Kurapika", "D": "Hisoka" },
+      "answer": "A"
+    },
+    {
+      "question": "In 'Naruto', who is the leader of Team 7?",
+      "options": { "A": "Kakashi Hatake", "B": "Jiraiya", "C": "Iruka", "D": "Minato Namikaze" },
+      "answer": "A"
+    },
+    {
+      "question": "Which anime features a high school for superheroes?",
+      "options": { "A": "My Hero Academia", "B": "Blue Exorcist", "C": "Soul Eater", "D": "Assassination Classroom" },
+      "answer": "A"
+    },
+    {
+      "question": "What anime features the character Natsu Dragneel?",
+      "options": { "A": "Fairy Tail", "B": "Black Clover", "C": "One Piece", "D": "Bleach" },
+      "answer": "A"
+    },
+    {
+      "question": "In 'Tokyo Ghoul', who is the main character?",
+      "options": { "A": "Ken Kaneki", "B": "Touka Kirishima", "C": "Kishou Arima", "D": "Shuu Tsukiyama" },
+      "answer": "A"
+    },
+    {
+      "question": "In 'One Punch Man', what is Saitama's signature move?",
+      "options": { "A": "Consecutive Normal Punches", "B": "Serious Punch", "C": "Death Punch", "D": "Mega Punch" },
+      "answer": "B"
+    },
+    {
+      "question": "What anime is known for the phrase 'I am gonna be the Pirate King'?",
+      "options": { "A": "One Piece", "B": "Naruto", "C": "Bleach", "D": "Hunter x Hunter" },
+      "answer": "A"
+    },
+    {
+      "question": "Who is the main antagonist in 'Dragon Ball Z' during the Frieza Saga?",
+      "options": { "A": "Frieza", "B": "Cell", "C": "Majin Buu", "D": "Vegeta" },
+          "answer": "A"
+        },
+        {
+          "question": "In 'Demon Slayer', what is Tanjiro's primary goal?",
+          "options": { "A": "To cure his sister", "B": "To defeat Muzan", "C": "To become the strongest demon slayer", "D": "To avenge his family" },
+          "answer": "A"
+        },
+        {
+          "question": "Which anime is set in a school where students must kill their teacher?",
+          "options": { "A": "Assassination Classroom", "B": "Blue Exorcist", "C": "Ouran High School Host Club", "D": "Soul Eater" },
+          "answer": "A"
+        },
+        {
+          "question": "In 'Naruto', who is the first Hokage?",
+          "options": { "A": "Hashirama Senju", "B": "Tobirama Senju", "C": "Hiruzen Sarutobi", "D": "Minato Namikaze" },
+          "answer": "A"
+        },
+        {
+          "question": "What is the name of the organization that fights ghouls in 'Tokyo Ghoul'?",
+          "options": { "A": "CCG", "B": "V", "C": "Aogiri Tree", "D": "Anteiku" },
+          "answer": "A"
+        },
+        {
+          "question": "In 'Bleach', what are the spirits that attack humans called?",
+          "options": { "A": "Hollows", "B": "Quincies", "C": "Soul Reapers", "D": "Arrancars" },
+          "answer": "A"
+        },
+        {
+          "question": "Which anime features a notebook that can kill people?",
+          "options": { "A": "Death Note", "B": "Code Geass", "C": "Future Diary", "D": "Psycho-Pass" },
+          "answer": "A"
+        },
+        {
+          "question": "In 'Dragon Ball', what are the magical orbs called that summon a dragon?",
+          "options": { "A": "Dragon Balls", "B": "Z Balls", "C": "Power Spheres", "D": "Shenron Orbs" },
+          "answer": "A"
+        },
+        {
+          "question": "What is the main goal of Light Yagami in 'Death Note'?",
+          "options": { "A": "To become the god of a new world", "B": "To protect humanity", "C": "To destroy all Shinigami", "D": "To expose L" },
+          "answer": "A"
+        },
+        {
+          "question": "Which anime features a battle between angels in giant mechas?",
+          "options": { "A": "Neon Genesis Evangelion", "B": "Gundam Wing", "C": "Code Geass", "D": "Trigun" },
+          "answer": "A"
+        },
+        {
+          "question": "Who is known as the 'Hero Killer' in 'My Hero Academia'?",
+          "options": { "A": "Stain", "B": "All For One", "C": "Shigaraki", "D": "Overhaul" },
+          "answer": "A"
+        },
+        {
+          "question": "In 'Naruto', what village is Gaara from?",
+          "options": { "A": "Hidden Sand", "B": "Hidden Leaf", "C": "Hidden Mist", "D": "Hidden Cloud"
+          }
+]
