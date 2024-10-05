@@ -1,0 +1,157 @@
+[
+  {
+    "question": "What is the speed of light in a vacuum?",
+    "options": { "A": "300,000 km/s", "B": "150,000 km/s", "C": "100,000 km/s", "D": "250,000 km/s" },
+    "answer": "A"
+  },
+  {
+    "question": "Who developed the theory of general relativity?",
+    "options": { "A": "Isaac Newton", "B": "Galileo Galilei", "C": "Albert Einstein", "D": "Niels Bohr" },
+    "answer": "C"
+  },
+  {
+    "question": "What is the unit of force in the International System of Units (SI)?",
+    "options": { "A": "Joule", "B": "Newton", "C": "Pascal", "D": "Watt" },
+    "answer": "B"
+  },
+  {
+    "question": "What type of wave is sound?",
+    "options": { "A": "Transverse", "B": "Longitudinal", "C": "Electromagnetic", "D": "Mechanical" },
+    "answer": "B"
+  },
+  {
+    "question": "What is the acceleration due to gravity on Earth?",
+    "options": { "A": "9.8 m/s²", "B": "8.9 m/s²", "C": "10.5 m/s²", "D": "7.5 m/s²" },
+    "answer": "A"
+  },
+  {
+    "question": "What is the formula for calculating force?",
+    "options": { "A": "F = m * a", "B": "F = m / a", "C": "F = a / m", "D": "F = v * m" },
+    "answer": "A"
+  },
+  {
+    "question": "Which law states that 'For every action, there is an equal and opposite reaction'?",
+    "options": { "A": "Newton's First Law", "B": "Newton's Second Law", "C": "Newton's Third Law", "D": "Law of Conservation of Energy" },
+    "answer": "C"
+  },
+  {
+    "question": "What is the unit of electrical resistance?",
+    "options": { "A": "Volt", "B": "Ampere", "C": "Ohm", "D": "Coulomb" },
+    "answer": "C"
+  },
+  {
+    "question": "What type of energy is stored in an object due to its position?",
+    "options": { "A": "Kinetic energy", "B": "Thermal energy", "C": "Potential energy", "D": "Mechanical energy" },
+    "answer": "C"
+  },
+  {
+    "question": "Which particle is negatively charged?",
+    "options": { "A": "Proton", "B": "Neutron", "C": "Electron", "D": "Photon" },
+    "answer": "C"
+  },
+  {
+    "question": "What is the primary force that keeps planets in orbit around the sun?",
+    "options": { "A": "Magnetism", "B": "Friction", "C": "Gravitational force", "D": "Centripetal force" },
+    "answer": "C"
+  },
+  {
+    "question": "What is the unit of power in physics?",
+    "options": { "A": "Joule", "B": "Watt", "C": "Newton", "D": "Pascal" },
+    "answer": "B"
+  },
+  {
+    "question": "Which scientist is credited with the discovery of the electron?",
+    "options": { "A": "Albert Einstein", "B": "Niels Bohr", "C": "J.J. Thomson", "D": "Marie Curie" },
+    "answer": "C"
+  },
+  {
+    "question": "What is the law of conservation of energy?",
+    "options": { "A": "Energy can be created or destroyed", "B": "Energy cannot be created or destroyed", "C": "Energy can only be created", "D": "Energy cannot be transferred" },
+    "answer": "B"
+  },
+  {
+    "question": "What phenomenon causes a straw to appear bent when placed in a glass of water?",
+    "options": { "A": "Reflection", "B": "Diffraction", "C": "Refraction", "D": "Interference" },
+    "answer": "C"
+  },
+  {
+    "question": "Which law relates voltage, current, and resistance in an electrical circuit?",
+    "options": { "A": "Ohm's Law", "B": "Faraday's Law", "C": "Ampere's Law", "D": "Gauss's Law" },
+    "answer": "A"
+  },
+  {
+    "question": "What is the SI unit of electric charge?",
+    "options": { "A": "Ampere", "B": "Volt", "C": "Coulomb", "D": "Watt" },
+    "answer": "C"
+  },
+  {
+    "question": "Which type of electromagnetic radiation has the shortest wavelength?",
+    "options": { "A": "Gamma rays", "B": "X-rays", "C": "Ultraviolet light", "D": "Microwaves" },
+    "answer": "A"
+  },
+  {
+    "question": "What is the approximate age of the universe?",
+    "options": { "A": "13.8 billion years", "B": "4.5 billion years", "C": "100 million years", "D": "1 billion years" },
+    "answer": "A"
+  },
+  {
+    "question": "Which phenomenon describes the bending of light waves around obstacles?",
+    "options": { "A": "Refraction", "B": "Reflection", "C": "Diffraction", "D": "Interference" },
+    "answer": "C"
+  },
+  {
+    "question": "Which branch of physics deals with the behavior of particles on a very small scale?",
+    "options": { "A": "Classical mechanics", "B": "Quantum mechanics", "C": "Thermodynamics", "D": "Electromagnetism" },
+    "answer": "B"
+  },
+  {
+    "question": "What is the charge of a proton?",
+    "options": { "A": "Positive", "B": "Negative", "C": "Neutral", "D": "Variable" },
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for the energy possessed by a moving object?",
+    "options": { "A": "Potential energy", "B": "Kinetic energy", "C": "Thermal energy", "D": "Chemical energy" },
+    "answer": "B"
+  },
+  {
+    "question": "What is the temperature at which water boils at standard atmospheric pressure?",
+    "options": { "A": "50°C", "B": "75°C", "C": "100°C", "D": "150°C" },
+    "answer": "C"
+  },
+  {
+    "question": "What is the name of the force that opposes the relative motion between two objects in contact?",
+    "options": { "A": "Friction", "B": "Tension", "C": "Gravitational force", "D": "Centripetal force" },
+    "answer": "A"
+  },
+  {
+    "question": "What does E=mc² represent?",
+    "options": { "A": "Energy-mass relationship", "B": "Newton's second law", "C": "Ohm's law", "D": "Momentum formula" },
+    "answer": "A"
+  },
+  {
+    "question": "What type of mirror is used in car headlights to focus light into a beam?",
+    "options": { "A": "Convex mirror", "B": "Plane mirror", "C": "Concave mirror", "D": "Spherical mirror" },
+    "answer": "C"
+  },
+  {
+    "question": "Which particle is the carrier of the electromagnetic force?",
+    "options": { "A": "Neutron", "B": "Photon", "C": "Electron", "D": "Proton" },
+    "answer": "B"
+  },
+  {
+    "question": "What is the name of the path that a projectile follows?",
+    "options": { "A": "Trajectory", "B": "Vector", "C": "Force field", "D": "Arc" },
+    "answer": "A"
+  },
+  {
+    "question": "What is the unit of frequency in the SI system?",
+    "options": { "A": "Hertz", "B": "Joule", "C": "Tesla", "D": "Pascal" },
+    "answer": "A"
+  },
+  {
+    "question": "What is the term for the time it takes for one complete cycle of a wave?",
+    "options": { "A": "Amplitude", "B": "Wavelength", "C": "Frequency", "D": "Period" },
+    "answer": "D"
+  }
+]
