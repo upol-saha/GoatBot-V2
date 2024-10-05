@@ -1,0 +1,28 @@
+{
+  "undefined": {
+    "petName": "XoXo",
+    "gender": "male",
+    "bio": "a",
+    "balance": 10,
+    "food": [
+      {
+        "name": "apple",
+        "number": 0
+      },
+      {
+        "name": "cucumber",
+        "number": 0
+      },
+      {
+        "name": "berry",
+        "number": 0
+      },
+      {
+        "name": "pizza",
+        "number": 0
+      }
+    ],
+    "happiness": 135,
+    "energy": 95
+  }
+}
