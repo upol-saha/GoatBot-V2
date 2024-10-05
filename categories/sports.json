@@ -1,0 +1,162 @@
+[
+  {
+    "question": "Which country won the FIFA World Cup in 2018?",
+    "options": { "A": "Brazil", "B": "France", "C": "Germany", "D": "Argentina" },
+    "answer": "B"
+  },
+  {
+    "question": "How many players are there on a standard soccer team?",
+    "options": { "A": "7", "B": "9", "C": "11", "D": "13" },
+    "answer": "C"
+  },
+  {
+    "question": "In which sport would you perform a slam dunk?",
+    "options": { "A": "Basketball", "B": "Volleyball", "C": "Football", "D": "Baseball" },
+    "answer": "A"
+  },
+  {
+    "question": "Which country is known as the birthplace of the Olympic Games?",
+    "options": { "A": "Italy", "B": "France", "C": "Greece", "D": "Germany" },
+    "answer": "C"
+  },
+  {
+    "question": "What is the length of a standard marathon race?",
+    "options": { "A": "26.2 miles", "B": "25 miles", "C": "30 miles", "D": "24 miles" },
+    "answer": "A"
+  },
+  {
+    "question": "Which sport uses a shuttlecock?",
+    "options": { "A": "Tennis", "B": "Badminton", "C": "Squash", "D": "Table Tennis" },
+    "answer": "B"
+  },
+  {
+    "question": "What is the maximum number of players allowed on a cricket team?",
+    "options": { "A": "9", "B": "10", "C": "11", "D": "12" },
+    "answer": "C"
+  },
+  {
+    "question": "In tennis, what is the term for a score of 40-40?",
+    "options": { "A": "Deuce", "B": "Advantage", "C": "Break", "D": "Set" },
+    "answer": "A"
+  },
+  {
+    "question": "Which sport involves swinging a club to hit a ball into a hole?",
+    "options": { "A": "Golf", "B": "Baseball", "C": "Hockey", "D": "Cricket" },
+    "answer": "A"
+  },
+  {
+    "question": "What is the name of the trophy awarded to the NFL champion?",
+    "options": { "A": "Stanley Cup", "B": "World Cup", "C": "Vince Lombardi Trophy", "D": "Larry O'Brien Trophy" },
+    "answer": "C"
+  },
+  {
+    "question": "Which country has the most Formula 1 World Championships?",
+    "options": { "A": "Germany", "B": "United Kingdom", "C": "Italy", "D": "Brazil" },
+    "answer": "B"
+  },
+  {
+    "question": "In which sport would you use a racket to hit a shuttlecock over a net?",
+    "options": { "A": "Tennis", "B": "Badminton", "C": "Squash", "D": "Ping Pong" },
+    "answer": "B"
+  },
+  {
+    "question": "Which athlete is known as 'The Greatest' and is famous for boxing?",
+    "options": { "A": "Floyd Mayweather", "B": "Muhammad Ali", "C": "Mike Tyson", "D": "George Foreman" },
+    "answer": "B"
+  },
+  {
+    "question": "In which sport would you find a goalie position?",
+    "options": { "A": "Basketball", "B": "Soccer", "C": "Baseball", "D": "Tennis" },
+    "answer": "B"
+  },
+  {
+    "question": "Which swimmer holds the record for the most Olympic gold medals?",
+    "options": { "A": "Michael Phelps", "B": "Usain Bolt", "C": "Ian Thorpe", "D": "Ryan Lochte" },
+    "answer": "A"
+  },
+  {
+    "question": "What is the name of the sports event where athletes compete in a series of track and field events?",
+    "options": { "A": "Decathlon", "B": "Heptathlon", "C": "Triathlon", "D": "Pentathlon" },
+    "answer": "A"
+  },
+  {
+    "question": "Which sport is known as 'America's pastime'?",
+    "options": { "A": "Basketball", "B": "Football", "C": "Baseball", "D": "Hockey" },
+    "answer": "C"
+  },
+  {
+    "question": "What is the term for a perfect score in ten-pin bowling?",
+    "options": { "A": "Strike", "B": "Spare", "C": "Frame", "D": "300" },
+    "answer": "D"
+  },
+  {
+    "question": "In which sport would you find the term 'home run'?",
+    "options": { "A": "Football", "B": "Baseball", "C": "Basketball", "D": "Soccer" },
+    "answer": "B"
+  },
+  {
+    "question": "Who is known as 'The King of Soccer'?",
+    "options": { "A": "Cristiano Ronaldo", "B": "Lionel Messi", "C": "Pelé", "D": "Diego Maradona" },
+    "answer": "C"
+  },
+  {
+    "question": "In which sport do athletes compete in the Tour de France?",
+    "options": { "A": "Swimming", "B": "Running", "C": "Cycling", "D": "Rowing" },
+    "answer": "C"
+  },
+  {
+    "question": "Which country is famous for the sport of sumo wrestling?",
+    "options": { "A": "China", "B": "Japan", "C": "Korea", "D": "Thailand" },
+    "answer": "B"
+  },
+  {
+    "question": "What is the name of the field event where athletes throw a heavy weight?",
+    "options": { "A": "Discus Throw", "B": "Shot Put", "C": "Javelin", "D": "Hammer Throw" },
+    "answer": "B"
+  },
+  {
+    "question": "Which sport is known for its 'slam dunk'?",
+    "options": { "A": "Basketball", "B": "Football", "C": "Baseball", "D": "Hockey" },
+    "answer": "A"
+  },
+  {
+    "question": "In which sport would you find a 'hat-trick'?",
+    "options": { "A": "Soccer", "B": "Cricket", "C": "Ice Hockey", "D": "All of the above" },
+    "answer": "D"
+  },
+  {
+    "question": "Which athlete holds the record for the fastest 100-meter sprint?",
+    "options": { "A": "Usain Bolt", "B": "Carl Lewis", "C": "Tyson Gay", "D": "Justin Gatlin" },
+    "answer": "A"
+  },
+  {
+    "question": "Which sport is associated with the term 'golf'?",
+    "options": { "A": "Tennis", "B": "Swimming", "C": "Baseball", "D": "Golf" },
+    "answer": "D"
+  },
+  {
+    "question": "Which country won the 2016 Summer Olympics?",
+    "options": { "A": "United States", "B": "China", "C": "Great Britain", "D": "Brazil" },
+    "answer": "A"
+  },
+  {
+    "question": "In which sport do competitors use a foil, épée, or sabre?",
+    "options": { "A": "Fencing", "B": "Boxing", "C": "Wrestling", "D": "Martial Arts" },
+    "answer": "A"
+  },
+  {
+    "question": "Which athlete is known for their achievements in gymnastics, including multiple Olympic gold medals?",
+    "options": { "A": "Simone Biles", "B": "Nastia Liukin", "C": "Gabby Douglas", "D": "Shawn Johnson" },
+    "answer": "A"
+  },
+  {
+    "question": "What is the name of the trophy awarded to the winner of the FIFA World Cup?",
+    "options": { "A": "The Stanley Cup", "B": "The Wimbledon Trophy", "C": "The Jules Rimet Trophy", "D": "The UEFA Champions League Trophy" },
+    "answer": "C"
+  },
+  {
+    "question": "Which sport is known for its use of a 'puck'?",
+    "options": { "A": "Football", "B": "Ice Hockey", "C": "Basketball", "D": "Lacrosse" },
+    "answer": "B"
+  }
+]
