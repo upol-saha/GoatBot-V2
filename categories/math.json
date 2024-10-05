@@ -1,0 +1,167 @@
+[
+  {
+    "question": "What is the square root of 64?",
+    "options": { "A": "6", "B": "8", "C": "10", "D": "12" },
+    "answer": "B"
+  },
+  {
+    "question": "Solve: 9 + 6 ÷ 3",
+    "options": { "A": "5", "B": "11", "C": "15", "D": "7" },
+    "answer": "B"
+  },
+    {
+      "question": "What is 5 + 7?",
+      "options": { "A": "10", "B": "11", "C": "12", "D": "13" },
+      "answer": "C"
+    },
+    {
+      "question": "What is the square root of 81?",
+      "options": { "A": "7", "B": "8", "C": "9", "D": "10" },
+      "answer": "C"
+    },
+    {
+      "question": "What is 15% of 200?",
+      "options": { "A": "30", "B": "25", "C": "20", "D": "15" },
+      "answer": "A"
+    },
+    {
+      "question": "What is the value of π (pi) up to two decimal places?",
+      "options": { "A": "3.12", "B": "3.14", "C": "3.16", "D": "3.18" },
+      "answer": "B"
+    },
+    {
+      "question": "What is the perimeter of a square with side length 5 cm?",
+      "options": { "A": "10 cm", "B": "15 cm", "C": "20 cm", "D": "25 cm" },
+      "answer": "C"
+    },
+    {
+      "question": "What is 9 x 6?",
+      "options": { "A": "54", "B": "56", "C": "48", "D": "52" },
+      "answer": "A"
+    },
+    {
+      "question": "Solve for x: 2x + 5 = 15.",
+      "options": { "A": "x = 4", "B": "x = 5", "C": "x = 6", "D": "x = 7" },
+      "answer": "A"
+    },
+    {
+      "question": "What is the area of a triangle with a base of 4 cm and a height of 5 cm?",
+      "options": { "A": "10 cm²", "B": "12 cm²", "C": "15 cm²", "D": "20 cm²" },
+      "answer": "A"
+    },
+    {
+      "question": "What is 50 divided by 5?",
+      "options": { "A": "5", "B": "10", "C": "15", "D": "20" },
+      "answer": "B"
+    },
+    {
+      "question": "What is the hypotenuse of a right triangle with legs of 3 and 4 units?",
+      "options": { "A": "3 units", "B": "5 units", "C": "6 units", "D": "7 units" },
+      "answer": "B"
+    },
+    {
+      "question": "If a car travels at 60 km/h for 3 hours, how far does it travel?",
+      "options": { "A": "120 km", "B": "150 km", "C": "180 km", "D": "200 km" },
+      "answer": "C"
+    },
+    {
+      "question": "What is the value of 7 cubed (7³)?",
+      "options": { "A": "343", "B": "49", "C": "21", "D": "27" },
+      "answer": "A"
+    },
+    {
+      "question": "What is 1/2 + 1/4?",
+      "options": { "A": "1/4", "B": "3/4", "C": "1", "D": "1/2" },
+      "answer": "B"
+    },
+    {
+      "question": "What is the next prime number after 7?",
+      "options": { "A": "8", "B": "9", "C": "10", "D": "11" },
+      "answer": "D"
+    },
+    {
+      "question": "What is 25% of 80?",
+      "options": { "A": "10", "B": "15", "C": "20", "D": "25" },
+      "answer": "C"
+    },
+    {
+      "question": "What is the circumference of a circle with a radius of 7 cm? (Use π ≈ 3.14)",
+      "options": { "A": "21.98 cm", "B": "43.96 cm", "C": "14 cm", "D": "22 cm" },
+      "answer": "B"
+    },
+    {
+      "question": "If y = 3x + 2, what is y when x = 4?",
+      "options": { "A": "12", "B": "14", "C": "13", "D": "11" },
+      "answer": "B"
+    },
+    {
+      "question": "What is 8 divided by 0?",
+      "options": { "A": "Infinity", "B": "8", "C": "0", "D": "Undefined" },
+      "answer": "D"
+    },
+    {
+      "question": "What is the median of the following set of numbers: 3, 7, 8, 12, 14?",
+      "options": { "A": "7", "B": "8", "C": "10", "D": "12" },
+      "answer": "B"
+    },
+    {
+      "question": "What is the decimal equivalent of 1/4?",
+      "options": { "A": "0.25", "B": "0.50", "C": "0.75", "D": "1.25" },
+      "answer": "A"
+    },
+    {
+      "question": "What is the value of x if 3x = 9?",
+      "options": { "A": "x = 2", "B": "x = 3", "C": "x = 6", "D": "x = 9" },
+      "answer": "B"
+    },
+    {
+      "question": "If a rectangle has a length of 8 cm and a width of 6 cm, what is its area?",
+      "options": { "A": "28 cm²", "B": "30 cm²", "C": "40 cm²", "D": "48 cm²" },
+      "answer": "D"
+    },
+    {
+      "question": "What is the value of 2 raised to the power of 5 (2^5)?",
+      "options": { "A": "16", "B": "32", "C": "64", "D": "128" },
+      "answer": "B"
+    },
+    {
+      "question": "What is the sum of the angles in a triangle?",
+      "options": { "A": "90°", "B": "180°", "C": "270°", "D": "360°" },
+      "answer": "B"
+    },
+    {
+      "question": "What is 12% of 50?",
+      "options": { "A": "5", "B": "6", "C": "7", "D": "10" },
+      "answer": "B"
+    },
+    {
+      "question": "If a circle has a diameter of 10 cm, what is its radius?",
+      "options": { "A": "3 cm", "B": "4 cm", "C": "5 cm", "D": "6 cm" },
+      "answer": "C"
+    },
+    {
+      "question": "What is 0.75 as a fraction?",
+      "options": { "A": "1/2", "B": "3/4", "C": "5/8", "D": "7/8" },
+      "answer": "B"
+    },
+    {
+      "question": "What is the greatest common factor (GCF) of 24 and 36?",
+      "options": { "A": "6", "B": "12", "C": "24", "D": "36" },
+      "answer": "B"
+    },
+    {
+      "question": "What is the slope of the line y = 2x + 3?",
+      "options": { "A": "2", "B": "3", "C": "-2", "D": "-3" },
+      "answer": "A"
+    },
+    {
+      "question": "What is the volume of a cube with side length 4 cm?",
+      "options": { "A": "16 cm³", "B": "32 cm³", "C": "64 cm³", "D": "48 cm³" },
+      "answer": "C"
+    },
+    {
+      "question": "What is 15 x 15?",
+      "options": { "A": "200", "B": "225", "C": "250", "D": "275" },
+      "answer": "B"
+    }
+]
